@@ -1,0 +1,12 @@
+{
+	"private": true,
+	"scripts": {
+		"build": "npm run fetch && npm run process",
+		"fetch": "node --no-warnings fetch.mjs",
+		"process": "node process.mjs",
+		"test": "TEST=true node normalize-names.mjs"
+	},
+	"devDependencies": {
+		"puppeteer": "^19.5.2"
+	}
+}
