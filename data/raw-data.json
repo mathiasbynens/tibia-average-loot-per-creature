@@ -1272,16 +1272,16 @@
 		"v": 570.25
 	},
 	{
-		"n": "Iks Ahpututu",
-		"p": "Iks Ahpututu",
-		"k": 337,
-		"v": 567.97
-	},
-	{
 		"n": "Moohtant",
 		"p": "Moohtant",
 		"k": 6759,
 		"v": 567.53
+	},
+	{
+		"n": "Iks Ahpututu",
+		"p": "Iks Ahpututu",
+		"k": 338,
+		"v": 566.35
 	},
 	{
 		"n": "Glooth Brigand",
@@ -1412,8 +1412,8 @@
 	{
 		"n": "Quara Predator",
 		"p": "Quara Predator",
-		"k": 24751,
-		"v": 486.82
+		"k": 24788,
+		"v": 486.71
 	},
 	{
 		"n": "Broken Shaper",
@@ -1736,8 +1736,8 @@
 	{
 		"n": "Quara Pincher",
 		"p": "Quara Pincher",
-		"k": 17870,
-		"v": 294.53
+		"k": 17901,
+		"v": 294.72
 	},
 	{
 		"n": "Schiach",
@@ -2048,8 +2048,8 @@
 	{
 		"n": "Quara Hydromancer",
 		"p": "Quara Hydromancer",
-		"k": 11901,
-		"v": 169.68
+		"k": 11923,
+		"v": 169.64
 	},
 	{
 		"n": "Vampire Bride",
@@ -2264,8 +2264,8 @@
 	{
 		"n": "Quara Mantassin",
 		"p": "Quara Mantassin",
-		"k": 14617,
-		"v": 114.13
+		"k": 14703,
+		"v": 114.16
 	},
 	{
 		"n": "Vampire Viscount",
@@ -2426,8 +2426,8 @@
 	{
 		"n": "Quara Constrictor",
 		"p": "Quara Constrictor",
-		"k": 16957,
-		"v": 71.45
+		"k": 17132,
+		"v": 71.42
 	},
 	{
 		"n": "Demon Skeleton",
@@ -3608,8 +3608,8 @@
 	{
 		"n": "Squirrel",
 		"p": "Squirrel",
-		"k": 5255,
-		"v": 3.64
+		"k": 5294,
+		"v": 3.67
 	},
 	{
 		"n": "Panda",
@@ -3770,7 +3770,7 @@
 	{
 		"n": "Cobra",
 		"p": "Cobra",
-		"k": 27809,
+		"k": 27810,
 		"v": 0.76
 	},
 	{
