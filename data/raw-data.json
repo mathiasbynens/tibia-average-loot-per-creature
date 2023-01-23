@@ -482,14 +482,14 @@
 	{
 		"n": "Falcon Knight",
 		"p": "Falcon Knight",
-		"k": 8113,
-		"v": 2290.63
+		"k": 8115,
+		"v": 2290.21
 	},
 	{
 		"n": "Falcon Paladin",
 		"p": "Falcon Paladin",
-		"k": 5910,
-		"v": 2245.01
+		"k": 5911,
+		"v": 2244.75
 	},
 	{
 		"n": "Juvenile Bashmu",
@@ -536,8 +536,8 @@
 	{
 		"n": "Two-Headed Turtle",
 		"p": "Two-Headed Turtle",
-		"k": 3352,
-		"v": 1905.47
+		"k": 3533,
+		"v": 1920.96
 	},
 	{
 		"n": "Orewalker",
@@ -624,16 +624,16 @@
 		"v": 1567.08
 	},
 	{
+		"n": "Foam Stalker",
+		"p": "Foam Stalker",
+		"k": 1546,
+		"v": 1554.74
+	},
+	{
 		"n": "Ghastly Dragon",
 		"p": "Ghastly Dragon",
 		"k": 21474,
 		"v": 1551.35
-	},
-	{
-		"n": "Foam Stalker",
-		"p": "Foam Stalker",
-		"k": 1456,
-		"v": 1550.79
 	},
 	{
 		"n": "Feversleep",
@@ -1278,16 +1278,16 @@
 		"v": 567.53
 	},
 	{
-		"n": "Iks Ahpututu",
-		"p": "Iks Ahpututu",
-		"k": 338,
-		"v": 566.35
-	},
-	{
 		"n": "Glooth Brigand",
 		"p": "Glooth Brigand",
 		"k": 242309,
 		"v": 565.28
+	},
+	{
+		"n": "Iks Ahpututu",
+		"p": "Iks Ahpututu",
+		"k": 340,
+		"v": 564.65
 	},
 	{
 		"n": "Defiler",
@@ -2378,7 +2378,7 @@
 	{
 		"n": "Vampire",
 		"p": "Vampire",
-		"k": 35272,
+		"k": 35273,
 		"v": 82.28
 	},
 	{
@@ -2780,7 +2780,7 @@
 	{
 		"n": "Dragon Lord Hatchling",
 		"p": "Dragon Lord Hatchling",
-		"k": 7445,
+		"k": 7446,
 		"v": 36.42
 	},
 	{
@@ -3770,7 +3770,7 @@
 	{
 		"n": "Cobra",
 		"p": "Cobra",
-		"k": 27810,
+		"k": 27811,
 		"v": 0.76
 	},
 	{
