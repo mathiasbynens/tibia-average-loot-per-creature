@@ -350,8 +350,8 @@
 	{
 		"n": "Hive Overseer",
 		"p": "Hive Overseer",
-		"k": 4043,
-		"v": 3355.42
+		"k": 4044,
+		"v": 3354.74
 	},
 	{
 		"n": "Juggernaut",
@@ -596,8 +596,8 @@
 	{
 		"n": "Spidris Elite",
 		"p": "Spidris Elite",
-		"k": 5369,
-		"v": 1676.17
+		"k": 5370,
+		"v": 1675.87
 	},
 	{
 		"n": "Usurper Warlock",
@@ -662,8 +662,8 @@
 	{
 		"n": "Cobra Assassin",
 		"p": "Cobra Assassin",
-		"k": 6776,
-		"v": 1498.71
+		"k": 6777,
+		"v": 1498.65
 	},
 	{
 		"n": "Retching Horror",
@@ -866,8 +866,8 @@
 	{
 		"n": "Gazer Spectre",
 		"p": "Gazer Spectre",
-		"k": 13365,
-		"v": 1073.38
+		"k": 13374,
+		"v": 1072.93
 	},
 	{
 		"n": "Manticore",
@@ -956,8 +956,8 @@
 	{
 		"n": "Ripper Spectre",
 		"p": "Ripper Spectre",
-		"k": 9822,
-		"v": 942.96
+		"k": 9829,
+		"v": 942.53
 	},
 	{
 		"n": "Armadile",
@@ -1016,8 +1016,8 @@
 	{
 		"n": "Burster Spectre",
 		"p": "Burster Spectre",
-		"k": 15696,
-		"v": 887.83
+		"k": 15698,
+		"v": 887.74
 	},
 	{
 		"n": "Glooth Golem",
@@ -1244,8 +1244,8 @@
 	{
 		"n": "Shaper Matriarch",
 		"p": "Shaper Matriarch",
-		"k": 5885,
-		"v": 595.15
+		"k": 5891,
+		"v": 594.89
 	},
 	{
 		"n": "Werehyaena",
@@ -1388,8 +1388,8 @@
 	{
 		"n": "Twisted Shaper",
 		"p": "Twisted Shaper",
-		"k": 7445,
-		"v": 505.66
+		"k": 7453,
+		"v": 505.51
 	},
 	{
 		"n": "Minotaur Cult Prophet",
@@ -1398,16 +1398,16 @@
 		"v": 504.52
 	},
 	{
+		"n": "Vile Grandmaster",
+		"p": "Vile Grandmaster",
+		"k": 8194,
+		"v": 497
+	},
+	{
 		"n": "Eternal Guardian",
 		"p": "Eternal Guardian",
 		"k": 18202,
 		"v": 496.86
-	},
-	{
-		"n": "Vile Grandmaster",
-		"p": "Vile Grandmaster",
-		"k": 8190,
-		"v": 495.45
 	},
 	{
 		"n": "Quara Predator",
@@ -1418,8 +1418,8 @@
 	{
 		"n": "Broken Shaper",
 		"p": "Broken Shaper",
-		"k": 8711,
-		"v": 485.19
+		"k": 8718,
+		"v": 485.17
 	},
 	{
 		"n": "Shaburak Prince",
@@ -1730,8 +1730,8 @@
 	{
 		"n": "Renegade Knight",
 		"p": "Renegade Knight",
-		"k": 17123,
-		"v": 296.66
+		"k": 17136,
+		"v": 296.55
 	},
 	{
 		"n": "Quara Pincher",
@@ -1874,8 +1874,8 @@
 	{
 		"n": "Lich",
 		"p": "Lich",
-		"k": 12048,
-		"v": 233.76
+		"k": 12052,
+		"v": 233.71
 	},
 	{
 		"n": "Ogre Brute",
@@ -1982,7 +1982,7 @@
 	{
 		"n": "Undead Gladiator",
 		"p": "Undead Gladiator",
-		"k": 13039,
+		"k": 13050,
 		"v": 177.85
 	},
 	{
@@ -1998,16 +1998,16 @@
 		"v": 176.7
 	},
 	{
-		"n": "Diamond Servant Replica",
-		"p": "Diamond Servant Replica",
-		"k": 4187,
-		"v": 176.16
-	},
-	{
 		"n": "Massive Earth Elemental",
 		"p": "Massive Earth Elemental",
 		"k": 6916,
 		"v": 175.84
+	},
+	{
+		"n": "Diamond Servant Replica",
+		"p": "Diamond Servant Replica",
+		"k": 4226,
+		"v": 175.79
 	},
 	{
 		"n": "Quara Hydromancer Scout",
@@ -2282,8 +2282,8 @@
 	{
 		"n": "Vicious Squire",
 		"p": "Vicious Squire",
-		"k": 33383,
-		"v": 111.93
+		"k": 33395,
+		"v": 111.98
 	},
 	{
 		"n": "Adept of the Cult",
@@ -2294,8 +2294,8 @@
 	{
 		"n": "Necromancer",
 		"p": "Necromancer",
-		"k": 65752,
-		"v": 111.37
+		"k": 65764,
+		"v": 111.35
 	},
 	{
 		"n": "Glooth Blob",
@@ -2396,8 +2396,8 @@
 	{
 		"n": "Golden Servant Replica",
 		"p": "Golden Servant Replica",
-		"k": 4013,
-		"v": 79.19
+		"k": 4048,
+		"v": 79.17
 	},
 	{
 		"n": "Earth Elemental",
@@ -2672,8 +2672,8 @@
 	{
 		"n": "Iron Servant Replica",
 		"p": "Iron Servant Replica",
-		"k": 6634,
-		"v": 44.97
+		"k": 6685,
+		"v": 45.19
 	},
 	{
 		"n": "Rorc",
@@ -2948,7 +2948,7 @@
 	{
 		"n": "Wild Warrior",
 		"p": "Wild Warrior",
-		"k": 12143,
+		"k": 12144,
 		"v": 25.8
 	},
 	{
@@ -3662,7 +3662,7 @@
 	{
 		"n": "Boar",
 		"p": "Boar",
-		"k": 4092,
+		"k": 4094,
 		"v": 2.67
 	},
 	{
@@ -3674,7 +3674,7 @@
 	{
 		"n": "Bear",
 		"p": "Bear",
-		"k": 56432,
+		"k": 56433,
 		"v": 2.2
 	},
 	{
@@ -3746,7 +3746,7 @@
 	{
 		"n": "Wasp",
 		"p": "Wasp",
-		"k": 89800,
+		"k": 89802,
 		"v": 1.2
 	},
 	{
@@ -3836,7 +3836,7 @@
 	{
 		"n": "Rabbit",
 		"p": "Rabbit",
-		"k": 9707,
+		"k": 9708,
 		"v": 0.18
 	},
 	{
