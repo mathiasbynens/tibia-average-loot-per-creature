@@ -422,8 +422,8 @@
 	{
 		"n": "Cliff Strider",
 		"p": "Cliff Strider",
-		"k": 1899,
-		"v": 2571.73
+		"k": 1910,
+		"v": 2566.71
 	},
 	{
 		"n": "Grimeleech",
@@ -524,8 +524,8 @@
 	{
 		"n": "Lava Golem",
 		"p": "Lava Golem",
-		"k": 5914,
-		"v": 2051.42
+		"k": 5926,
+		"v": 2050.5
 	},
 	{
 		"n": "Soul-Broken Harbinger",
@@ -542,8 +542,8 @@
 	{
 		"n": "Orewalker",
 		"p": "Orewalker",
-		"k": 3024,
-		"v": 1881.71
+		"k": 3041,
+		"v": 1893.9
 	},
 	{
 		"n": "Liodile",
@@ -578,14 +578,14 @@
 	{
 		"n": "Weeper",
 		"p": "Weeper",
-		"k": 7367,
-		"v": 1742.4
+		"k": 7385,
+		"v": 1744.29
 	},
 	{
 		"n": "Ironblight",
 		"p": "Ironblight",
-		"k": 2814,
-		"v": 1725.82
+		"k": 2834,
+		"v": 1725.21
 	},
 	{
 		"n": "Cobra Scout",
@@ -734,8 +734,8 @@
 	{
 		"n": "Stone Devourer",
 		"p": "Stone Devourer",
-		"k": 2638,
-		"v": 1253.29
+		"k": 2653,
+		"v": 1251.33
 	},
 	{
 		"n": "Arachnophobica",
@@ -800,8 +800,8 @@
 	{
 		"n": "Lost Berserker",
 		"p": "Lost Berserker",
-		"k": 9074,
-		"v": 1160.94
+		"k": 9110,
+		"v": 1160.47
 	},
 	{
 		"n": "Menacing Carnivor",
@@ -866,8 +866,8 @@
 	{
 		"n": "Magma Crawler",
 		"p": "Magma Crawler",
-		"k": 9233,
-		"v": 1053.86
+		"k": 9259,
+		"v": 1054.93
 	},
 	{
 		"n": "Manticore",
@@ -1016,8 +1016,8 @@
 	{
 		"n": "Armadile",
 		"p": "Armadile",
-		"k": 2416,
-		"v": 880.06
+		"k": 2436,
+		"v": 880.08
 	},
 	{
 		"n": "Glooth Golem",
@@ -1058,8 +1058,8 @@
 	{
 		"n": "Hideous Fungus",
 		"p": "Hideous Fungus",
-		"k": 9371,
-		"v": 842.65
+		"k": 9492,
+		"v": 841.14
 	},
 	{
 		"n": "Pirat Mate",
@@ -1082,8 +1082,8 @@
 	{
 		"n": "Humongous Fungus",
 		"p": "Humongous Fungus",
-		"k": 16379,
-		"v": 795.51
+		"k": 16517,
+		"v": 797.53
 	},
 	{
 		"n": "Lumbering Carnivor",
@@ -1148,8 +1148,8 @@
 	{
 		"n": "Execowtioner",
 		"p": "Execowtioner",
-		"k": 6497,
-		"v": 691.59
+		"k": 6499,
+		"v": 691.44
 	},
 	{
 		"n": "Lost Basher",
@@ -1166,8 +1166,8 @@
 	{
 		"n": "Minotaur Amazon",
 		"p": "Minotaur Amazon",
-		"k": 7153,
-		"v": 673.38
+		"k": 7154,
+		"v": 673.31
 	},
 	{
 		"n": "Grim Reaper",
@@ -1272,12 +1272,6 @@
 		"v": 571.14
 	},
 	{
-		"n": "Moohtant",
-		"p": "Moohtant",
-		"k": 6759,
-		"v": 567.53
-	},
-	{
 		"n": "Glooth Brigand",
 		"p": "Glooth Brigand",
 		"k": 242309,
@@ -1288,6 +1282,12 @@
 		"p": "Defiler",
 		"k": 5316,
 		"v": 564.72
+	},
+	{
+		"n": "Moohtant",
+		"p": "Moohtant",
+		"k": 6762,
+		"v": 563.54
 	},
 	{
 		"n": "Iks Ahpututu",
@@ -1448,8 +1448,8 @@
 	{
 		"n": "Infected Weeper",
 		"p": "Infected Weeper",
-		"k": 2303,
-		"v": 445.8
+		"k": 2312,
+		"v": 446.04
 	},
 	{
 		"n": "Weakened Frazzlemaw",
@@ -1478,8 +1478,8 @@
 	{
 		"n": "Metal Gargoyle",
 		"p": "Metal Gargoyle",
-		"k": 2928,
-		"v": 427.27
+		"k": 2931,
+		"v": 427.11
 	},
 	{
 		"n": "Souleater",
@@ -1490,8 +1490,8 @@
 	{
 		"n": "Ice Dragon",
 		"p": "Ice Dragon",
-		"k": 1952,
-		"v": 414.23
+		"k": 1953,
+		"v": 414.09
 	},
 	{
 		"n": "Baleful Bunny",
@@ -1538,20 +1538,20 @@
 	{
 		"n": "Worm Priestess",
 		"p": "Worm Priestess",
-		"k": 71092,
-		"v": 378.75
+		"k": 71110,
+		"v": 378.71
+	},
+	{
+		"n": "Mooh'tah Warrior",
+		"p": "Mooh'Tah Warrior",
+		"k": 2995,
+		"v": 369.62
 	},
 	{
 		"n": "Diabolic Imp",
 		"p": "Diabolic Imp",
 		"k": 7138,
 		"v": 367.67
-	},
-	{
-		"n": "Mooh'tah Warrior",
-		"p": "Mooh'Tah Warrior",
-		"k": 2977,
-		"v": 366.84
 	},
 	{
 		"n": "Orclops Doomhauler",
@@ -1646,8 +1646,8 @@
 	{
 		"n": "Dragon Lord",
 		"p": "Dragon Lord",
-		"k": 43501,
-		"v": 323.87
+		"k": 43509,
+		"v": 323.83
 	},
 	{
 		"n": "Deepling Spellsinger",
@@ -1784,7 +1784,7 @@
 	{
 		"n": "Minotaur Hunter",
 		"p": "Minotaur Hunter",
-		"k": 64485,
+		"k": 64491,
 		"v": 277.17
 	},
 	{
@@ -1928,8 +1928,8 @@
 	{
 		"n": "Massive Energy Elemental",
 		"p": "Massive Energy Elemental",
-		"k": 1330,
-		"v": 205.35
+		"k": 1331,
+		"v": 205.23
 	},
 	{
 		"n": "Braindeath",
@@ -1958,8 +1958,8 @@
 	{
 		"n": "Nightmare Scion",
 		"p": "Nightmare Scion",
-		"k": 20126,
-		"v": 195.22
+		"k": 20151,
+		"v": 195.41
 	},
 	{
 		"n": "Misguided Thief",
@@ -1970,20 +1970,14 @@
 	{
 		"n": "Blood Beast",
 		"p": "Blood Beast",
-		"k": 14656,
-		"v": 184.69
+		"k": 14660,
+		"v": 184.66
 	},
 	{
 		"n": "Energy Elemental",
 		"p": "Energy Elemental",
-		"k": 18057,
-		"v": 180.42
-	},
-	{
-		"n": "Undead Gladiator",
-		"p": "Undead Gladiator",
-		"k": 13050,
-		"v": 177.85
+		"k": 18058,
+		"v": 180.41
 	},
 	{
 		"n": "Quara Predator Scout",
@@ -2014,6 +2008,12 @@
 		"p": "Quara Hydromancer Scout",
 		"k": 21312,
 		"v": 175.58
+	},
+	{
+		"n": "Undead Gladiator",
+		"p": "Undead Gladiator",
+		"k": 13069,
+		"v": 175.34
 	},
 	{
 		"n": "Orc Cultist",
@@ -3398,7 +3398,7 @@
 	{
 		"n": "Troll",
 		"p": "Troll",
-		"k": 5402,
+		"k": 5404,
 		"v": 9.19
 	},
 	{
@@ -3512,7 +3512,7 @@
 	{
 		"n": "Frost Troll",
 		"p": "Frost Troll",
-		"k": 18564,
+		"k": 18573,
 		"v": 6.03
 	},
 	{
@@ -3692,7 +3692,7 @@
 	{
 		"n": "Poison Spider",
 		"p": "Poison Spider",
-		"k": 42586,
+		"k": 42590,
 		"v": 1.97
 	},
 	{
@@ -3746,7 +3746,7 @@
 	{
 		"n": "Wasp",
 		"p": "Wasp",
-		"k": 89804,
+		"k": 89807,
 		"v": 1.2
 	},
 	{
@@ -3770,7 +3770,7 @@
 	{
 		"n": "Cobra",
 		"p": "Cobra",
-		"k": 27823,
+		"k": 27824,
 		"v": 0.76
 	},
 	{
@@ -3842,7 +3842,7 @@
 	{
 		"n": "Winter Wolf",
 		"p": "Winter Wolf",
-		"k": 23367,
+		"k": 23370,
 		"v": 0.08
 	},
 	{
