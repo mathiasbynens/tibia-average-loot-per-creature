@@ -1808,8 +1808,8 @@
 	{
 		"n": "Nightmare",
 		"p": "Nightmare",
-		"k": 4883,
-		"v": 270.06
+		"k": 4910,
+		"v": 270.65
 	},
 	{
 		"n": "Askarak Lord",
@@ -1910,8 +1910,8 @@
 	{
 		"n": "Giant Spider",
 		"p": "Giant Spider",
-		"k": 90835,
-		"v": 206.35
+		"k": 90904,
+		"v": 206.53
 	},
 	{
 		"n": "Death Priest",
@@ -1958,8 +1958,8 @@
 	{
 		"n": "Nightmare Scion",
 		"p": "Nightmare Scion",
-		"k": 20151,
-		"v": 195.41
+		"k": 20162,
+		"v": 195.99
 	},
 	{
 		"n": "Misguided Thief",
@@ -2126,8 +2126,8 @@
 	{
 		"n": "Mutated Bat",
 		"p": "Mutated Bat",
-		"k": 6666,
-		"v": 147.08
+		"k": 6708,
+		"v": 146.91
 	},
 	{
 		"n": "Marid",
@@ -2240,8 +2240,8 @@
 	{
 		"n": "Nightstalker",
 		"p": "Nightstalker",
-		"k": 21726,
-		"v": 119
+		"k": 21727,
+		"v": 118.99
 	},
 	{
 		"n": "Bellicose Orger",
@@ -2444,8 +2444,8 @@
 	{
 		"n": "Zombie",
 		"p": "Zombie",
-		"k": 20092,
-		"v": 69.95
+		"k": 20103,
+		"v": 69.93
 	},
 	{
 		"n": "Bonelord",
@@ -3086,7 +3086,7 @@
 	{
 		"n": "Tarantula",
 		"p": "Tarantula",
-		"k": 83860,
+		"k": 83926,
 		"v": 20.22
 	},
 	{
@@ -3608,8 +3608,8 @@
 	{
 		"n": "Squirrel",
 		"p": "Squirrel",
-		"k": 5364,
-		"v": 3.7
+		"k": 5389,
+		"v": 3.69
 	},
 	{
 		"n": "Panda",
