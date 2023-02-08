@@ -528,16 +528,16 @@
 		"v": 2049.87
 	},
 	{
+		"n": "Two-Headed Turtle",
+		"p": "Two-Headed Turtle",
+		"k": 3695,
+		"v": 1928.08
+	},
+	{
 		"n": "Soul-Broken Harbinger",
 		"p": "Soul-Broken Harbinger",
 		"k": 8178,
 		"v": 1924.35
-	},
-	{
-		"n": "Two-Headed Turtle",
-		"p": "Two-Headed Turtle",
-		"k": 3533,
-		"v": 1920.96
 	},
 	{
 		"n": "Orewalker",
@@ -618,16 +618,16 @@
 		"v": 1604.07
 	},
 	{
+		"n": "Foam Stalker",
+		"p": "Foam Stalker",
+		"k": 1623,
+		"v": 1570.9
+	},
+	{
 		"n": "Priestess of the Wild Sun",
 		"p": "Priestess of the Wild Sun",
 		"k": 5912,
 		"v": 1567.08
-	},
-	{
-		"n": "Foam Stalker",
-		"p": "Foam Stalker",
-		"k": 1546,
-		"v": 1554.74
 	},
 	{
 		"n": "Ghastly Dragon",
@@ -1610,7 +1610,7 @@
 	{
 		"n": "Werebadger",
 		"p": "Werebadger",
-		"k": 9001,
+		"k": 9002,
 		"v": 335.14
 	},
 	{
@@ -1628,8 +1628,14 @@
 	{
 		"n": "Wereboar",
 		"p": "Wereboar",
-		"k": 6665,
-		"v": 330.48
+		"k": 6667,
+		"v": 330.43
+	},
+	{
+		"n": "Werefox",
+		"p": "Werefox",
+		"k": 246,
+		"v": 326.52
 	},
 	{
 		"n": "Jungle Moa",
@@ -1678,12 +1684,6 @@
 		"p": "Werewolf",
 		"k": 19305,
 		"v": 316.55
-	},
-	{
-		"n": "Werefox",
-		"p": "Werefox",
-		"k": 245,
-		"v": 314.5
 	},
 	{
 		"n": "Instable Breach Brood",
@@ -3308,8 +3308,8 @@
 	{
 		"n": "Orc",
 		"p": "Orc",
-		"k": 4470,
-		"v": 11.86
+		"k": 4471,
+		"v": 11.85
 	},
 	{
 		"n": "Pirate Skeleton",
@@ -3674,7 +3674,7 @@
 	{
 		"n": "Bear",
 		"p": "Bear",
-		"k": 56477,
+		"k": 56479,
 		"v": 2.2
 	},
 	{
