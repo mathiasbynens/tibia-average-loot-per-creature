@@ -764,8 +764,8 @@
 	{
 		"n": "Mean Lost Soul",
 		"p": "Mean Lost Soul",
-		"k": 16170,
-		"v": 1201.53
+		"k": 16263,
+		"v": 1200.12
 	},
 	{
 		"n": "Draken Abomination",
@@ -824,8 +824,8 @@
 	{
 		"n": "Flimsy Lost Soul",
 		"p": "Flimsy Lost Soul",
-		"k": 33859,
-		"v": 1127.52
+		"k": 34167,
+		"v": 1128.23
 	},
 	{
 		"n": "Deepling Tyrant",
@@ -1148,8 +1148,8 @@
 	{
 		"n": "Iks Pututu",
 		"p": "Iks Pututu",
-		"k": 598,
-		"v": 704.26
+		"k": 610,
+		"v": 694.34
 	},
 	{
 		"n": "Execowtioner",
@@ -1316,8 +1316,8 @@
 	{
 		"n": "Iks Chuka",
 		"p": "Iks Chuka",
-		"k": 724,
-		"v": 552.71
+		"k": 734,
+		"v": 552.52
 	},
 	{
 		"n": "Lost Exile",
@@ -1358,14 +1358,14 @@
 	{
 		"n": "Iks Aucar",
 		"p": "Iks Aucar",
-		"k": 914,
-		"v": 533.05
+		"k": 923,
+		"v": 532.99
 	},
 	{
 		"n": "Iks Ahpututu",
 		"p": "Iks Ahpututu",
-		"k": 466,
-		"v": 532.94
+		"k": 469,
+		"v": 530.81
 	},
 	{
 		"n": "White Lion",
@@ -1904,8 +1904,8 @@
 	{
 		"n": "Iks Churrascan",
 		"p": "Iks Churrascan",
-		"k": 677,
-		"v": 224.96
+		"k": 692,
+		"v": 225.08
 	},
 	{
 		"n": "Lizard High Guard",
@@ -2210,8 +2210,8 @@
 	{
 		"n": "Cursed Ape",
 		"p": "Cursed Ape",
-		"k": 370,
-		"v": 129.56
+		"k": 376,
+		"v": 130.61
 	},
 	{
 		"n": "Omnivora",
@@ -3800,7 +3800,7 @@
 	{
 		"n": "Cobra",
 		"p": "Cobra",
-		"k": 27856,
+		"k": 27857,
 		"v": 0.76
 	},
 	{
