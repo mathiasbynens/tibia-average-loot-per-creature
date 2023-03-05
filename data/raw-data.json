@@ -1788,16 +1788,16 @@
 		"v": 285.21
 	},
 	{
+		"n": "Nightmare",
+		"p": "Nightmare",
+		"k": 5135,
+		"v": 284.17
+	},
+	{
 		"n": "Ogre Shaman",
 		"p": "Ogre Shaman",
 		"k": 3638,
 		"v": 283.37
-	},
-	{
-		"n": "Nightmare",
-		"p": "Nightmare",
-		"k": 5091,
-		"v": 283.22
 	},
 	{
 		"n": "Orc Cult Inquisitor",
@@ -1934,8 +1934,8 @@
 	{
 		"n": "Giant Spider",
 		"p": "Giant Spider",
-		"k": 91155,
-		"v": 206.81
+		"k": 91182,
+		"v": 206.85
 	},
 	{
 		"n": "Death Priest",
@@ -1982,8 +1982,8 @@
 	{
 		"n": "Nightmare Scion",
 		"p": "Nightmare Scion",
-		"k": 20205,
-		"v": 195.88
+		"k": 20229,
+		"v": 195.84
 	},
 	{
 		"n": "Misguided Thief",
@@ -2156,8 +2156,8 @@
 	{
 		"n": "Mutated Bat",
 		"p": "Mutated Bat",
-		"k": 6799,
-		"v": 146.75
+		"k": 6824,
+		"v": 146.77
 	},
 	{
 		"n": "Wiggler",
@@ -2402,7 +2402,7 @@
 	{
 		"n": "Nightstalker",
 		"p": "Nightstalker",
-		"k": 21905,
+		"k": 21906,
 		"v": 85.53
 	},
 	{
@@ -2474,7 +2474,7 @@
 	{
 		"n": "Zombie",
 		"p": "Zombie",
-		"k": 20280,
+		"k": 20285,
 		"v": 69.94
 	},
 	{
@@ -3116,7 +3116,7 @@
 	{
 		"n": "Tarantula",
 		"p": "Tarantula",
-		"k": 84166,
+		"k": 84201,
 		"v": 20.24
 	},
 	{
@@ -3632,8 +3632,8 @@
 	{
 		"n": "Squirrel",
 		"p": "Squirrel",
-		"k": 5680,
-		"v": 3.82
+		"k": 5734,
+		"v": 3.87
 	},
 	{
 		"n": "Mercury Blob",
@@ -3728,13 +3728,13 @@
 	{
 		"n": "Poison Spider",
 		"p": "Poison Spider",
-		"k": 42816,
+		"k": 42817,
 		"v": 1.97
 	},
 	{
 		"n": "Spider",
 		"p": "Spider",
-		"k": 18334,
+		"k": 18338,
 		"v": 1.93
 	},
 	{
