@@ -530,8 +530,8 @@
 	{
 		"n": "Two-Headed Turtle",
 		"p": "Two-Headed Turtle",
-		"k": 3765,
-		"v": 1929.73
+		"k": 3951,
+		"v": 1940.77
 	},
 	{
 		"n": "Soul-Broken Harbinger",
@@ -626,8 +626,8 @@
 	{
 		"n": "Foam Stalker",
 		"p": "Foam Stalker",
-		"k": 1643,
-		"v": 1571.95
+		"k": 1729,
+		"v": 1573.54
 	},
 	{
 		"n": "Ghastly Dragon",
@@ -806,8 +806,8 @@
 	{
 		"n": "Menacing Carnivor",
 		"p": "Menacing Carnivor",
-		"k": 1398,
-		"v": 1149.1
+		"k": 1405,
+		"v": 1144.58
 	},
 	{
 		"n": "Naga Archer",
@@ -992,8 +992,8 @@
 	{
 		"n": "Spiky Carnivor",
 		"p": "Spiky Carnivor",
-		"k": 1593,
-		"v": 918.08
+		"k": 1765,
+		"v": 913.39
 	},
 	{
 		"n": "Crazed Summer Vanguard",
@@ -1088,8 +1088,8 @@
 	{
 		"n": "Lumbering Carnivor",
 		"p": "Lumbering Carnivor",
-		"k": 1817,
-		"v": 790.8
+		"k": 2040,
+		"v": 789.61
 	},
 	{
 		"n": "Draken Spellweaver",
@@ -1424,8 +1424,8 @@
 	{
 		"n": "Quara Predator",
 		"p": "Quara Predator",
-		"k": 25464,
-		"v": 489.14
+		"k": 25480,
+		"v": 488.92
 	},
 	{
 		"n": "Broken Shaper",
@@ -1748,8 +1748,8 @@
 	{
 		"n": "Quara Pincher",
 		"p": "Quara Pincher",
-		"k": 18584,
-		"v": 298.18
+		"k": 18612,
+		"v": 298.36
 	},
 	{
 		"n": "Renegade Knight",
@@ -1934,8 +1934,8 @@
 	{
 		"n": "Giant Spider",
 		"p": "Giant Spider",
-		"k": 91182,
-		"v": 206.85
+		"k": 91240,
+		"v": 206.83
 	},
 	{
 		"n": "Death Priest",
@@ -2072,8 +2072,8 @@
 	{
 		"n": "Quara Hydromancer",
 		"p": "Quara Hydromancer",
-		"k": 12303,
-		"v": 171.11
+		"k": 12310,
+		"v": 171.1
 	},
 	{
 		"n": "Diamond Servant",
@@ -2156,8 +2156,8 @@
 	{
 		"n": "Mutated Bat",
 		"p": "Mutated Bat",
-		"k": 6824,
-		"v": 146.77
+		"k": 6857,
+		"v": 146.54
 	},
 	{
 		"n": "Wiggler",
@@ -2288,8 +2288,8 @@
 	{
 		"n": "Quara Mantassin",
 		"p": "Quara Mantassin",
-		"k": 14917,
-		"v": 114.06
+		"k": 14948,
+		"v": 114.02
 	},
 	{
 		"n": "Swarmer",
@@ -2454,16 +2454,16 @@
 		"v": 72.13
 	},
 	{
-		"n": "Quara Constrictor",
-		"p": "Quara Constrictor",
-		"k": 17550,
-		"v": 71.35
-	},
-	{
 		"n": "Demon Skeleton",
 		"p": "Demon Skeleton",
 		"k": 120995,
 		"v": 71.33
+	},
+	{
+		"n": "Quara Constrictor",
+		"p": "Quara Constrictor",
+		"k": 17638,
+		"v": 71.28
 	},
 	{
 		"n": "Priestess",
@@ -3116,7 +3116,7 @@
 	{
 		"n": "Tarantula",
 		"p": "Tarantula",
-		"k": 84201,
+		"k": 84263,
 		"v": 20.24
 	},
 	{
@@ -3624,16 +3624,16 @@
 		"v": 4.57
 	},
 	{
+		"n": "Squirrel",
+		"p": "Squirrel",
+		"k": 5850,
+		"v": 3.93
+	},
+	{
 		"n": "Cow",
 		"p": "Cow",
 		"k": 7992,
 		"v": 3.9
-	},
-	{
-		"n": "Squirrel",
-		"p": "Squirrel",
-		"k": 5734,
-		"v": 3.87
 	},
 	{
 		"n": "Mercury Blob",
