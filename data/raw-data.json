@@ -122,8 +122,8 @@
 	{
 		"n": "Sabretooth",
 		"p": "Sabretooth (Creature)",
-		"k": 3763,
-		"v": 4877.86
+		"k": 3769,
+		"v": 4878.62
 	},
 	{
 		"n": "Sulphur Spouter",
@@ -182,20 +182,20 @@
 	{
 		"n": "Emerald Tortoise",
 		"p": "Emerald Tortoise",
-		"k": 3793,
-		"v": 4527.16
-	},
-	{
-		"n": "Gore Horn",
-		"p": "Gore Horn",
-		"k": 3734,
-		"v": 4520.05
+		"k": 3795,
+		"v": 4526.09
 	},
 	{
 		"n": "Cave Chimera",
 		"p": "Cave Chimera",
 		"k": 1356,
 		"v": 4519.25
+	},
+	{
+		"n": "Gore Horn",
+		"p": "Gore Horn",
+		"k": 3737,
+		"v": 4519.09
 	},
 	{
 		"n": "Rage Squid",
@@ -206,8 +206,8 @@
 	{
 		"n": "Gorerilla",
 		"p": "Gorerilla",
-		"k": 3600,
-		"v": 4502.6
+		"k": 3604,
+		"v": 4500.45
 	},
 	{
 		"n": "Headpecker",
@@ -224,8 +224,8 @@
 	{
 		"n": "Hulking Prehemoth",
 		"p": "Hulking Prehemoth",
-		"k": 3709,
-		"v": 4306.31
+		"k": 3715,
+		"v": 4308.99
 	},
 	{
 		"n": "Squid Warden",
@@ -1898,8 +1898,8 @@
 	{
 		"n": "Lich",
 		"p": "Lich",
-		"k": 12456,
-		"v": 228.29
+		"k": 12458,
+		"v": 228.27
 	},
 	{
 		"n": "Lizard High Guard",
@@ -2138,8 +2138,8 @@
 	{
 		"n": "Banshee",
 		"p": "Banshee",
-		"k": 61926,
-		"v": 152.29
+		"k": 61929,
+		"v": 152.28
 	},
 	{
 		"n": "Young Sea Serpent",
@@ -2306,8 +2306,8 @@
 	{
 		"n": "Necromancer",
 		"p": "Necromancer",
-		"k": 66040,
-		"v": 111.04
+		"k": 66060,
+		"v": 111.02
 	},
 	{
 		"n": "Glooth Blob",
@@ -2408,8 +2408,8 @@
 	{
 		"n": "Vampire",
 		"p": "Vampire",
-		"k": 35973,
-		"v": 82.84
+		"k": 35996,
+		"v": 82.89
 	},
 	{
 		"n": "Midnight Spawn",
@@ -2456,7 +2456,7 @@
 	{
 		"n": "Demon Skeleton",
 		"p": "Demon Skeleton",
-		"k": 121218,
+		"k": 121229,
 		"v": 71.34
 	},
 	{
@@ -2468,8 +2468,8 @@
 	{
 		"n": "Priestess",
 		"p": "Priestess",
-		"k": 20896,
-		"v": 70.38
+		"k": 20904,
+		"v": 70.37
 	},
 	{
 		"n": "Zombie",
@@ -2480,8 +2480,8 @@
 	{
 		"n": "Bonelord",
 		"p": "Bonelord",
-		"k": 137289,
-		"v": 69.78
+		"k": 137323,
+		"v": 69.79
 	},
 	{
 		"n": "Ice Witch",
@@ -2516,7 +2516,7 @@
 	{
 		"n": "Green Djinn",
 		"p": "Green Djinn",
-		"k": 12806,
+		"k": 12823,
 		"v": 66.92
 	},
 	{
@@ -2660,7 +2660,7 @@
 	{
 		"n": "Mummy",
 		"p": "Mummy",
-		"k": 127679,
+		"k": 127689,
 		"v": 47.99
 	},
 	{
@@ -2876,8 +2876,8 @@
 	{
 		"n": "Gargoyle",
 		"p": "Gargoyle",
-		"k": 29798,
-		"v": 31.37
+		"k": 29804,
+		"v": 31.36
 	},
 	{
 		"n": "Minotaur",
@@ -2978,8 +2978,8 @@
 	{
 		"n": "Ghost",
 		"p": "Ghost",
-		"k": 44195,
-		"v": 25.79
+		"k": 44215,
+		"v": 25.83
 	},
 	{
 		"n": "Wild Warrior",
@@ -3092,7 +3092,7 @@
 	{
 		"n": "Ghoul",
 		"p": "Ghoul",
-		"k": 23909,
+		"k": 23911,
 		"v": 21.75
 	},
 	{
@@ -3398,7 +3398,7 @@
 	{
 		"n": "Stalker",
 		"p": "Stalker",
-		"k": 40961,
+		"k": 40970,
 		"v": 10.31
 	},
 	{
@@ -3704,7 +3704,7 @@
 	{
 		"n": "Bear",
 		"p": "Bear",
-		"k": 56530,
+		"k": 56531,
 		"v": 2.21
 	},
 	{
