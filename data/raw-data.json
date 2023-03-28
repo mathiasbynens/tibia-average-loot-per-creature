@@ -926,8 +926,8 @@
 	{
 		"n": "Dread Intruder",
 		"p": "Dread Intruder",
-		"k": 16423,
-		"v": 986.71
+		"k": 16511,
+		"v": 986.49
 	},
 	{
 		"n": "Enslaved Dwarf",
@@ -938,8 +938,8 @@
 	{
 		"n": "Reality Reaver",
 		"p": "Reality Reaver",
-		"k": 19455,
-		"v": 952.35
+		"k": 19551,
+		"v": 952.84
 	},
 	{
 		"n": "Minotaur Cult Follower",
@@ -1106,8 +1106,8 @@
 	{
 		"n": "Breach Brood",
 		"p": "Breach Brood",
-		"k": 19779,
-		"v": 771.59
+		"k": 19878,
+		"v": 771.72
 	},
 	{
 		"n": "Cursed Prospector",
@@ -1154,8 +1154,8 @@
 	{
 		"n": "Sparkion",
 		"p": "Sparkion",
-		"k": 18339,
-		"v": 679.74
+		"k": 18445,
+		"v": 679.29
 	},
 	{
 		"n": "Minotaur Amazon",
@@ -1190,8 +1190,8 @@
 	{
 		"n": "Iks Pututu",
 		"p": "Iks Pututu",
-		"k": 801,
-		"v": 656.53
+		"k": 891,
+		"v": 651.36
 	},
 	{
 		"n": "Glooth Anemone",
@@ -1326,22 +1326,10 @@
 		"v": 539.7
 	},
 	{
-		"n": "Iks Chuka",
-		"p": "Iks Chuka",
-		"k": 1043,
-		"v": 538.51
-	},
-	{
 		"n": "Werebear",
 		"p": "Werebear",
 		"k": 4964,
 		"v": 538.29
-	},
-	{
-		"n": "Iks Aucar",
-		"p": "Iks Aucar",
-		"k": 1264,
-		"v": 536.11
 	},
 	{
 		"n": "Renegade Quara Hydromancer",
@@ -1356,10 +1344,22 @@
 		"v": 534.5
 	},
 	{
+		"n": "Iks Chuka",
+		"p": "Iks Chuka",
+		"k": 1161,
+		"v": 531.9
+	},
+	{
 		"n": "White Lion",
 		"p": "White Lion",
 		"k": 6770,
 		"v": 531.23
+	},
+	{
+		"n": "Iks Aucar",
+		"p": "Iks Aucar",
+		"k": 1436,
+		"v": 530.82
 	},
 	{
 		"n": "Deepling Elite",
@@ -1370,8 +1370,8 @@
 	{
 		"n": "Iks Ahpututu",
 		"p": "Iks Ahpututu",
-		"k": 483,
-		"v": 524.35
+		"k": 496,
+		"v": 526.22
 	},
 	{
 		"n": "Askarak Prince",
@@ -1898,8 +1898,8 @@
 	{
 		"n": "Lich",
 		"p": "Lich",
-		"k": 12462,
-		"v": 228.24
+		"k": 12463,
+		"v": 228.3
 	},
 	{
 		"n": "Lizard High Guard",
@@ -1910,8 +1910,8 @@
 	{
 		"n": "Iks Churrascan",
 		"p": "Iks Churrascan",
-		"k": 771,
-		"v": 223.67
+		"k": 836,
+		"v": 223.15
 	},
 	{
 		"n": "Killer Caiman",
@@ -1964,8 +1964,8 @@
 	{
 		"n": "Stampor",
 		"p": "Stampor",
-		"k": 22114,
-		"v": 201.88
+		"k": 22193,
+		"v": 202.14
 	},
 	{
 		"n": "Exotic Cave Spider",
@@ -2138,7 +2138,7 @@
 	{
 		"n": "Banshee",
 		"p": "Banshee",
-		"k": 61933,
+		"k": 61935,
 		"v": 152.28
 	},
 	{
@@ -2214,16 +2214,16 @@
 		"v": 133.07
 	},
 	{
+		"n": "Cursed Ape",
+		"p": "Cursed Ape",
+		"k": 448,
+		"v": 129.75
+	},
+	{
 		"n": "Omnivora",
 		"p": "Omnivora",
 		"k": 3143,
 		"v": 129.33
-	},
-	{
-		"n": "Cursed Ape",
-		"p": "Cursed Ape",
-		"k": 425,
-		"v": 129.3
 	},
 	{
 		"n": "Elder Mummy",
@@ -2306,7 +2306,7 @@
 	{
 		"n": "Necromancer",
 		"p": "Necromancer",
-		"k": 66067,
+		"k": 66069,
 		"v": 111.02
 	},
 	{
@@ -2408,8 +2408,8 @@
 	{
 		"n": "Vampire",
 		"p": "Vampire",
-		"k": 36008,
-		"v": 82.88
+		"k": 36012,
+		"v": 82.87
 	},
 	{
 		"n": "Midnight Spawn",
@@ -2456,7 +2456,7 @@
 	{
 		"n": "Demon Skeleton",
 		"p": "Demon Skeleton",
-		"k": 121234,
+		"k": 121235,
 		"v": 71.34
 	},
 	{
@@ -2480,8 +2480,8 @@
 	{
 		"n": "Bonelord",
 		"p": "Bonelord",
-		"k": 137350,
-		"v": 69.79
+		"k": 137369,
+		"v": 69.78
 	},
 	{
 		"n": "Ice Witch",
@@ -2516,8 +2516,8 @@
 	{
 		"n": "Green Djinn",
 		"p": "Green Djinn",
-		"k": 12843,
-		"v": 66.96
+		"k": 12864,
+		"v": 67.03
 	},
 	{
 		"n": "Blue Djinn",
@@ -2660,7 +2660,7 @@
 	{
 		"n": "Mummy",
 		"p": "Mummy",
-		"k": 127698,
+		"k": 127700,
 		"v": 47.99
 	},
 	{
@@ -2678,7 +2678,7 @@
 	{
 		"n": "Mammoth",
 		"p": "Mammoth",
-		"k": 24276,
+		"k": 24277,
 		"v": 46.66
 	},
 	{
@@ -2978,7 +2978,7 @@
 	{
 		"n": "Ghost",
 		"p": "Ghost",
-		"k": 44228,
+		"k": 44238,
 		"v": 25.83
 	},
 	{
@@ -3092,7 +3092,7 @@
 	{
 		"n": "Ghoul",
 		"p": "Ghoul",
-		"k": 23911,
+		"k": 23918,
 		"v": 21.75
 	},
 	{
@@ -3134,7 +3134,7 @@
 	{
 		"n": "Scarab",
 		"p": "Scarab",
-		"k": 96219,
+		"k": 96225,
 		"v": 19.7
 	},
 	{
@@ -3260,7 +3260,7 @@
 	{
 		"n": "Skeleton",
 		"p": "Skeleton",
-		"k": 14713,
+		"k": 14715,
 		"v": 14.77
 	},
 	{
@@ -3272,7 +3272,7 @@
 	{
 		"n": "Gnarlhound",
 		"p": "Gnarlhound",
-		"k": 11152,
+		"k": 11154,
 		"v": 14.18
 	},
 	{
@@ -3704,7 +3704,7 @@
 	{
 		"n": "Bear",
 		"p": "Bear",
-		"k": 56531,
+		"k": 56532,
 		"v": 2.21
 	},
 	{
@@ -3728,7 +3728,7 @@
 	{
 		"n": "Poison Spider",
 		"p": "Poison Spider",
-		"k": 42920,
+		"k": 42921,
 		"v": 1.97
 	},
 	{
@@ -3746,7 +3746,7 @@
 	{
 		"n": "Sandcrawler",
 		"p": "Sandcrawler",
-		"k": 55027,
+		"k": 55054,
 		"v": 1.62
 	},
 	{
@@ -3812,7 +3812,7 @@
 	{
 		"n": "Badger",
 		"p": "Badger",
-		"k": 25410,
+		"k": 25411,
 		"v": 0.65
 	},
 	{
