@@ -350,8 +350,8 @@
 	{
 		"n": "Hive Overseer",
 		"p": "Hive Overseer",
-		"k": 4050,
-		"v": 3353.42
+		"k": 4058,
+		"v": 3357.64
 	},
 	{
 		"n": "Juggernaut",
@@ -638,8 +638,8 @@
 	{
 		"n": "Spidris Elite",
 		"p": "Spidris Elite",
-		"k": 5373,
-		"v": 1678.76
+		"k": 5382,
+		"v": 1689.14
 	},
 	{
 		"n": "Deathling Spellsinger",
@@ -902,8 +902,8 @@
 	{
 		"n": "Kollos",
 		"p": "Kollos",
-		"k": 22982,
-		"v": 1068.57
+		"k": 22983,
+		"v": 1068.55
 	},
 	{
 		"n": "Ogre Sage",
@@ -926,8 +926,8 @@
 	{
 		"n": "Spidris",
 		"p": "Spidris",
-		"k": 24075,
-		"v": 1015.86
+		"k": 24083,
+		"v": 1016.08
 	},
 	{
 		"n": "Lost Soul",
@@ -1542,16 +1542,10 @@
 		"v": 394.84
 	},
 	{
-		"n": "Spitter",
-		"p": "Spitter",
-		"k": 44926,
-		"v": 389.32
-	},
-	{
 		"n": "Waspoid",
 		"p": "Waspoid",
-		"k": 17827,
-		"v": 381.53
+		"k": 17836,
+		"v": 381.46
 	},
 	{
 		"n": "Nightmare",
@@ -1564,6 +1558,12 @@
 		"p": "Worm Priestess",
 		"k": 71331,
 		"v": 378.48
+	},
+	{
+		"n": "Spitter",
+		"p": "Spitter",
+		"k": 44933,
+		"v": 372.95
 	},
 	{
 		"n": "Diabolic Imp",
@@ -1706,8 +1706,8 @@
 	{
 		"n": "Crawler",
 		"p": "Crawler",
-		"k": 49695,
-		"v": 310.89
+		"k": 49697,
+		"v": 310.92
 	},
 	{
 		"n": "High Voltage Elemental",
