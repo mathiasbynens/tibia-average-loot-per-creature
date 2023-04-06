@@ -488,8 +488,8 @@
 	{
 		"n": "Ghastly Dragon",
 		"p": "Ghastly Dragon",
-		"k": 21519,
-		"v": 2292.04
+		"k": 21520,
+		"v": 2291.98
 	},
 	{
 		"n": "Falcon Knight",
@@ -1670,8 +1670,8 @@
 	{
 		"n": "Yielothax",
 		"p": "Yielothax",
-		"k": 107432,
-		"v": 312.9
+		"k": 107682,
+		"v": 312.71
 	},
 	{
 		"n": "Crawler",
@@ -1700,8 +1700,8 @@
 	{
 		"n": "Frost Dragon",
 		"p": "Frost Dragon",
-		"k": 41675,
-		"v": 301.45
+		"k": 41799,
+		"v": 301.78
 	},
 	{
 		"n": "Exotic Cave Spider",
@@ -2210,7 +2210,7 @@
 	{
 		"n": "Wyvern",
 		"p": "Wyvern",
-		"k": 65918,
+		"k": 65922,
 		"v": 121.15
 	},
 	{
@@ -2384,7 +2384,7 @@
 	{
 		"n": "Bonebeast",
 		"p": "Bonebeast",
-		"k": 104783,
+		"k": 104785,
 		"v": 76.12
 	},
 	{
@@ -2564,8 +2564,8 @@
 	{
 		"n": "Frost Dragon Hatchling",
 		"p": "Frost Dragon Hatchling",
-		"k": 29854,
-		"v": 51.28
+		"k": 29924,
+		"v": 51.25
 	},
 	{
 		"n": "Herald of Gloom",
@@ -2912,7 +2912,7 @@
 	{
 		"n": "Crypt Shambler",
 		"p": "Crypt Shambler",
-		"k": 116339,
+		"k": 116342,
 		"v": 27.03
 	},
 	{
@@ -3276,16 +3276,16 @@
 		"v": 12.36
 	},
 	{
-		"n": "Undead Jester",
-		"p": "Undead Jester",
-		"k": 2133,
-		"v": 12.05
-	},
-	{
 		"n": "Stalker",
 		"p": "Stalker",
 		"k": 41025,
 		"v": 12.02
+	},
+	{
+		"n": "Undead Jester",
+		"p": "Undead Jester",
+		"k": 2184,
+		"v": 12
 	},
 	{
 		"n": "Orc",
@@ -3518,7 +3518,7 @@
 	{
 		"n": "Death Blob",
 		"p": "Death Blob",
-		"k": 17021,
+		"k": 17034,
 		"v": 5.67
 	},
 	{
@@ -3746,8 +3746,8 @@
 	{
 		"n": "Silver Rabbit",
 		"p": "Silver Rabbit",
-		"k": 4691,
-		"v": 0.71
+		"k": 4692,
+		"v": 0.72
 	},
 	{
 		"n": "Badger",
@@ -3812,7 +3812,7 @@
 	{
 		"n": "Winter Wolf",
 		"p": "Winter Wolf",
-		"k": 23651,
+		"k": 23659,
 		"v": 0.11
 	},
 	{
