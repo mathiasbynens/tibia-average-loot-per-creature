@@ -2000,7 +2000,7 @@
 	{
 		"n": "Quara Predator Scout",
 		"p": "Quara Predator Scout",
-		"k": 58986,
+		"k": 58987,
 		"v": 177.15
 	},
 	{
@@ -2312,7 +2312,7 @@
 	{
 		"n": "Water Elemental",
 		"p": "Water Elemental",
-		"k": 23391,
+		"k": 23392,
 		"v": 105.28
 	},
 	{
@@ -2366,8 +2366,8 @@
 	{
 		"n": "Quara Pincher Scout",
 		"p": "Quara Pincher Scout",
-		"k": 48668,
-		"v": 89.42
+		"k": 48670,
+		"v": 89.44
 	},
 	{
 		"n": "Draptor",
@@ -2426,7 +2426,7 @@
 	{
 		"n": "Demon Skeleton",
 		"p": "Demon Skeleton",
-		"k": 121352,
+		"k": 121353,
 		"v": 71.34
 	},
 	{
@@ -2660,7 +2660,7 @@
 	{
 		"n": "Quara Mantassin Scout",
 		"p": "Quara Mantassin Scout",
-		"k": 70478,
+		"k": 70479,
 		"v": 45.95
 	},
 	{
@@ -2954,7 +2954,7 @@
 	{
 		"n": "Ghost",
 		"p": "Ghost",
-		"k": 44353,
+		"k": 44354,
 		"v": 25.84
 	},
 	{
@@ -3068,7 +3068,7 @@
 	{
 		"n": "Tarantula",
 		"p": "Tarantula",
-		"k": 85202,
+		"k": 85208,
 		"v": 21.68
 	},
 	{
@@ -3230,7 +3230,7 @@
 	{
 		"n": "Skeleton",
 		"p": "Skeleton",
-		"k": 14911,
+		"k": 14912,
 		"v": 14.76
 	},
 	{
@@ -3332,13 +3332,13 @@
 	{
 		"n": "Blood Crab",
 		"p": "Blood Crab",
-		"k": 11440,
+		"k": 11447,
 		"v": 11.81
 	},
 	{
 		"n": "Pirate Skeleton",
 		"p": "Pirate Skeleton",
-		"k": 3967,
+		"k": 3970,
 		"v": 11.79
 	},
 	{
@@ -3416,7 +3416,7 @@
 	{
 		"n": "Island Troll",
 		"p": "Island Troll",
-		"k": 11795,
+		"k": 11796,
 		"v": 8.98
 	},
 	{
@@ -3710,7 +3710,7 @@
 	{
 		"n": "Sandcrawler",
 		"p": "Sandcrawler",
-		"k": 55112,
+		"k": 55113,
 		"v": 1.62
 	},
 	{
@@ -3740,7 +3740,7 @@
 	{
 		"n": "Scorpion",
 		"p": "Scorpion",
-		"k": 70920,
+		"k": 70925,
 		"v": 1.27
 	},
 	{
@@ -3770,7 +3770,7 @@
 	{
 		"n": "Cobra",
 		"p": "Cobra",
-		"k": 28186,
+		"k": 28191,
 		"v": 0.76
 	},
 	{
