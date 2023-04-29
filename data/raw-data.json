@@ -158,8 +158,8 @@
 	{
 		"n": "Tremendous Tyrant",
 		"p": "Tremendous Tyrant",
-		"k": 1174,
-		"v": 4642.81
+		"k": 1186,
+		"v": 4661.52
 	},
 	{
 		"n": "Mercurial Menace",
@@ -192,12 +192,6 @@
 		"v": 4526.09
 	},
 	{
-		"n": "Cave Chimera",
-		"p": "Cave Chimera",
-		"k": 1356,
-		"v": 4519.25
-	},
-	{
 		"n": "Shrieking Cry-Stal",
 		"p": "Shrieking Cry-Stal",
 		"k": 3353,
@@ -214,6 +208,12 @@
 		"p": "Gorerilla",
 		"k": 3604,
 		"v": 4500.45
+	},
+	{
+		"n": "Cave Chimera",
+		"p": "Cave Chimera",
+		"k": 1378,
+		"v": 4493.64
 	},
 	{
 		"n": "Headpecker",
@@ -272,8 +272,8 @@
 	{
 		"n": "Streaked Devourer",
 		"p": "Streaked Devourer",
-		"k": 2950,
-		"v": 4032.27
+		"k": 2955,
+		"v": 4031.91
 	},
 	{
 		"n": "Blemished Spawn",
@@ -290,8 +290,8 @@
 	{
 		"n": "Lavaworm",
 		"p": "Lavaworm",
-		"k": 2998,
-		"v": 3964.48
+		"k": 2999,
+		"v": 3963.42
 	},
 	{
 		"n": "Icecold Book",
@@ -326,8 +326,8 @@
 	{
 		"n": "Varnished Diremaw",
 		"p": "Varnished Diremaw",
-		"k": 1226,
-		"v": 3616.84
+		"k": 1250,
+		"v": 3623.64
 	},
 	{
 		"n": "Cursed Book",
@@ -338,8 +338,8 @@
 	{
 		"n": "Hellflayer",
 		"p": "Hellflayer",
-		"k": 6850,
-		"v": 3426.25
+		"k": 6879,
+		"v": 3419.68
 	},
 	{
 		"n": "Girtablilu Warrior",
@@ -350,14 +350,14 @@
 	{
 		"n": "Hive Overseer",
 		"p": "Hive Overseer",
-		"k": 4062,
-		"v": 3362.71
+		"k": 4063,
+		"v": 3363.18
 	},
 	{
 		"n": "Juggernaut",
 		"p": "Juggernaut",
-		"k": 3372,
-		"v": 3336.6
+		"k": 3383,
+		"v": 3337.99
 	},
 	{
 		"n": "True Frost Flower Asura",
@@ -374,8 +374,8 @@
 	{
 		"n": "Hellhound",
 		"p": "Hellhound",
-		"k": 3330,
-		"v": 3215
+		"k": 3343,
+		"v": 3219.94
 	},
 	{
 		"n": "Venerable Girtablilu",
@@ -392,8 +392,8 @@
 	{
 		"n": "Demon",
 		"p": "Demon",
-		"k": 40592,
-		"v": 2919.93
+		"k": 40601,
+		"v": 2919.88
 	},
 	{
 		"n": "Crape Man",
@@ -416,8 +416,8 @@
 	{
 		"n": "Grimeleech",
 		"p": "Grimeleech",
-		"k": 9760,
-		"v": 2680.38
+		"k": 9792,
+		"v": 2681.35
 	},
 	{
 		"n": "Cliff Strider",
@@ -428,8 +428,8 @@
 	{
 		"n": "Vexclaw",
 		"p": "Vexclaw",
-		"k": 10254,
-		"v": 2580.13
+		"k": 10284,
+		"v": 2581.64
 	},
 	{
 		"n": "Usurper Archer",
@@ -446,8 +446,8 @@
 	{
 		"n": "Cobra Vizier",
 		"p": "Cobra Vizier",
-		"k": 7722,
-		"v": 2465.35
+		"k": 7814,
+		"v": 2464.19
 	},
 	{
 		"n": "Skeleton Elite Warrior",
@@ -476,26 +476,26 @@
 	{
 		"n": "Floating Savant",
 		"p": "Floating Savant",
-		"k": 6568,
-		"v": 2389.54
+		"k": 6569,
+		"v": 2389.2
 	},
 	{
 		"n": "Thanatursus",
 		"p": "Thanatursus",
-		"k": 8147,
-		"v": 2317.7
+		"k": 8149,
+		"v": 2317.51
 	},
 	{
 		"n": "Falcon Knight",
 		"p": "Falcon Knight",
-		"k": 8486,
-		"v": 2297.84
+		"k": 8507,
+		"v": 2295.09
 	},
 	{
 		"n": "Falcon Paladin",
 		"p": "Falcon Paladin",
-		"k": 6120,
-		"v": 2246.46
+		"k": 6126,
+		"v": 2247.04
 	},
 	{
 		"n": "Ghastly Dragon",
@@ -506,8 +506,8 @@
 	{
 		"n": "Blightwalker",
 		"p": "Blightwalker",
-		"k": 9741,
-		"v": 2145.52
+		"k": 9753,
+		"v": 2144.98
 	},
 	{
 		"n": "Dark Carnisylvan",
@@ -554,8 +554,8 @@
 	{
 		"n": "Burning Gladiator",
 		"p": "Burning Gladiator",
-		"k": 7604,
-		"v": 1856.24
+		"k": 7785,
+		"v": 1863.07
 	},
 	{
 		"n": "Usurper Knight",
@@ -590,8 +590,14 @@
 	{
 		"n": "Demon Outcast",
 		"p": "Demon Outcast",
-		"k": 31157,
-		"v": 1798.92
+		"k": 31162,
+		"v": 1798.81
+	},
+	{
+		"n": "Dark Torturer",
+		"p": "Dark Torturer",
+		"k": 104,
+		"v": 1794.61
 	},
 	{
 		"n": "Usurper Warlock",
@@ -614,8 +620,8 @@
 	{
 		"n": "Cobra Scout",
 		"p": "Cobra Scout",
-		"k": 3790,
-		"v": 1697.39
+		"k": 3968,
+		"v": 1692.89
 	},
 	{
 		"n": "Feral Sphinx",
@@ -644,8 +650,8 @@
 	{
 		"n": "Priestess of the Wild Sun",
 		"p": "Priestess of the Wild Sun",
-		"k": 6405,
-		"v": 1550.59
+		"k": 6538,
+		"v": 1550.45
 	},
 	{
 		"n": "Draken Elite",
@@ -680,8 +686,8 @@
 	{
 		"n": "Cobra Assassin",
 		"p": "Cobra Assassin",
-		"k": 7952,
-		"v": 1490.2
+		"k": 8232,
+		"v": 1493.76
 	},
 	{
 		"n": "Retching Horror",
@@ -692,8 +698,8 @@
 	{
 		"n": "Sphinx",
 		"p": "Sphinx",
-		"k": 22575,
-		"v": 1415.58
+		"k": 22778,
+		"v": 1415.79
 	},
 	{
 		"n": "Draken Abomination",
@@ -728,8 +734,8 @@
 	{
 		"n": "Insane Siren",
 		"p": "Insane Siren",
-		"k": 1555,
-		"v": 1292.18
+		"k": 1558,
+		"v": 1292.66
 	},
 	{
 		"n": "Guzzlemaw",
@@ -752,14 +758,14 @@
 	{
 		"n": "Black Sphinx Acolyte",
 		"p": "Black Sphinx Acolyte",
-		"k": 4129,
-		"v": 1253.89
+		"k": 4211,
+		"v": 1256.27
 	},
 	{
 		"n": "Arachnophobica",
 		"p": "Arachnophobica",
-		"k": 16957,
-		"v": 1251.03
+		"k": 16978,
+		"v": 1250.72
 	},
 	{
 		"n": "Freakish Lost Soul",
@@ -780,6 +786,12 @@
 		"v": 1205.92
 	},
 	{
+		"n": "Plaguesmith",
+		"p": "Plaguesmith",
+		"k": 5888,
+		"v": 1204.55
+	},
+	{
 		"n": "Manticore",
 		"p": "Manticore",
 		"k": 5133,
@@ -790,12 +802,6 @@
 		"p": "Mean Lost Soul",
 		"k": 16286,
 		"v": 1200.25
-	},
-	{
-		"n": "Plaguesmith",
-		"p": "Plaguesmith",
-		"k": 5861,
-		"v": 1197.95
 	},
 	{
 		"n": "Lost Berserker",
@@ -824,8 +830,8 @@
 	{
 		"n": "Frost Flower Asura",
 		"p": "Frost Flower Asura",
-		"k": 1912,
-		"v": 1152.77
+		"k": 1914,
+		"v": 1151.99
 	},
 	{
 		"n": "Makara",
@@ -842,8 +848,8 @@
 	{
 		"n": "Crazed Summer Rearguard",
 		"p": "Crazed Summer Rearguard",
-		"k": 11730,
-		"v": 1134.53
+		"k": 11734,
+		"v": 1134.37
 	},
 	{
 		"n": "Flimsy Lost Soul",
@@ -852,16 +858,16 @@
 		"v": 1128.38
 	},
 	{
+		"n": "Fury",
+		"p": "Fury",
+		"k": 6351,
+		"v": 1121.48
+	},
+	{
 		"n": "War Golem",
 		"p": "War Golem",
 		"k": 2264,
 		"v": 1120.49
-	},
-	{
-		"n": "Fury",
-		"p": "Fury",
-		"k": 6295,
-		"v": 1119.84
 	},
 	{
 		"n": "Deepling Tyrant",
@@ -878,20 +884,20 @@
 	{
 		"n": "Crypt Warden",
 		"p": "Crypt Warden",
-		"k": 18120,
-		"v": 1094.53
+		"k": 18304,
+		"v": 1094.08
 	},
 	{
 		"n": "Gazer Spectre",
 		"p": "Gazer Spectre",
-		"k": 13438,
-		"v": 1074.37
+		"k": 13504,
+		"v": 1075.99
 	},
 	{
 		"n": "Kollos",
 		"p": "Kollos",
-		"k": 23042,
-		"v": 1069.8
+		"k": 23043,
+		"v": 1069.9
 	},
 	{
 		"n": "Ogre Sage",
@@ -914,8 +920,8 @@
 	{
 		"n": "Spidris",
 		"p": "Spidris",
-		"k": 24196,
-		"v": 1014.18
+		"k": 24198,
+		"v": 1014.15
 	},
 	{
 		"n": "Lost Soul",
@@ -932,8 +938,8 @@
 	{
 		"n": "Dread Intruder",
 		"p": "Dread Intruder",
-		"k": 16589,
-		"v": 986.83
+		"k": 16592,
+		"v": 986.78
 	},
 	{
 		"n": "Hideous Fungus",
@@ -944,8 +950,8 @@
 	{
 		"n": "Crazed Summer Vanguard",
 		"p": "Crazed Summer Vanguard",
-		"k": 10620,
-		"v": 963.93
+		"k": 10626,
+		"v": 963.79
 	},
 	{
 		"n": "Humongous Fungus",
@@ -956,20 +962,20 @@
 	{
 		"n": "Ripper Spectre",
 		"p": "Ripper Spectre",
-		"k": 9861,
-		"v": 955.68
+		"k": 9917,
+		"v": 955.71
 	},
 	{
 		"n": "Reality Reaver",
 		"p": "Reality Reaver",
-		"k": 19651,
-		"v": 953.19
+		"k": 19655,
+		"v": 953.18
 	},
 	{
 		"n": "White Lion",
 		"p": "White Lion",
-		"k": 6799,
-		"v": 947.62
+		"k": 6834,
+		"v": 948.57
 	},
 	{
 		"n": "Minotaur Cult Follower",
@@ -998,8 +1004,8 @@
 	{
 		"n": "Phantasm",
 		"p": "Phantasm",
-		"k": 4748,
-		"v": 926.44
+		"k": 4751,
+		"v": 926.27
 	},
 	{
 		"n": "Spiky Carnivor",
@@ -1016,14 +1022,14 @@
 	{
 		"n": "Hellfire Fighter",
 		"p": "Hellfire Fighter",
-		"k": 5795,
-		"v": 908.62
+		"k": 5825,
+		"v": 906.75
 	},
 	{
 		"n": "Burster Spectre",
 		"p": "Burster Spectre",
-		"k": 15712,
-		"v": 887.75
+		"k": 15747,
+		"v": 887
 	},
 	{
 		"n": "Renegade Quara Predator",
@@ -1034,8 +1040,8 @@
 	{
 		"n": "Glooth Golem",
 		"p": "Glooth Golem",
-		"k": 6590,
-		"v": 869.94
+		"k": 6592,
+		"v": 869.79
 	},
 	{
 		"n": "Werehyaena Shaman",
@@ -1058,8 +1064,8 @@
 	{
 		"n": "Warlock",
 		"p": "Warlock",
-		"k": 15638,
-		"v": 850.3
+		"k": 15641,
+		"v": 850.15
 	},
 	{
 		"n": "Chasm Spawn",
@@ -1070,14 +1076,14 @@
 	{
 		"n": "Pirat Mate",
 		"p": "Pirat Mate",
-		"k": 4042,
-		"v": 829.56
+		"k": 4130,
+		"v": 827.85
 	},
 	{
 		"n": "Behemoth",
 		"p": "Behemoth",
-		"k": 46656,
-		"v": 793.67
+		"k": 46688,
+		"v": 793.45
 	},
 	{
 		"n": "Lumbering Carnivor",
@@ -1086,22 +1092,22 @@
 		"v": 790.54
 	},
 	{
-		"n": "Draken Spellweaver",
-		"p": "Draken Spellweaver",
-		"k": 232104,
-		"v": 780
-	},
-	{
 		"n": "Midnight Asura",
 		"p": "Midnight Asura",
-		"k": 5667,
-		"v": 779.44
+		"k": 5773,
+		"v": 785.45
+	},
+	{
+		"n": "Draken Spellweaver",
+		"p": "Draken Spellweaver",
+		"k": 232105,
+		"v": 780
 	},
 	{
 		"n": "Breach Brood",
 		"p": "Breach Brood",
-		"k": 19992,
-		"v": 778.16
+		"k": 19994,
+		"v": 778.13
 	},
 	{
 		"n": "Serpent Spawn",
@@ -1112,14 +1118,14 @@
 	{
 		"n": "Walker",
 		"p": "Walker",
-		"k": 2577,
-		"v": 774.11
+		"k": 2578,
+		"v": 773.96
 	},
 	{
 		"n": "Pirat Scoundrel",
 		"p": "Pirat Scoundrel",
-		"k": 5924,
-		"v": 742.29
+		"k": 5995,
+		"v": 740.07
 	},
 	{
 		"n": "Orc Cult Fanatic",
@@ -1130,14 +1136,14 @@
 	{
 		"n": "Draken Warmaster",
 		"p": "Draken Warmaster",
-		"k": 328437,
+		"k": 328439,
 		"v": 732.14
 	},
 	{
 		"n": "Dawnfire Asura",
 		"p": "Dawnfire Asura",
-		"k": 5815,
-		"v": 710.31
+		"k": 5910,
+		"v": 710.39
 	},
 	{
 		"n": "Ogre Ruffian",
@@ -1154,14 +1160,14 @@
 	{
 		"n": "Sparkion",
 		"p": "Sparkion",
-		"k": 18562,
-		"v": 679.24
+		"k": 18566,
+		"v": 679.21
 	},
 	{
 		"n": "Pirat Bombardier",
 		"p": "Pirat Bombardier",
-		"k": 5763,
-		"v": 674.46
+		"k": 5811,
+		"v": 675.89
 	},
 	{
 		"n": "Minotaur Amazon",
@@ -1172,8 +1178,8 @@
 	{
 		"n": "Lost Basher",
 		"p": "Lost Basher",
-		"k": 12947,
-		"v": 667.48
+		"k": 12948,
+		"v": 667.64
 	},
 	{
 		"n": "Cursed Prospector",
@@ -1184,14 +1190,14 @@
 	{
 		"n": "Grim Reaper",
 		"p": "Grim Reaper",
-		"k": 4439,
-		"v": 654.7
+		"k": 4441,
+		"v": 654.54
 	},
 	{
 		"n": "Glooth Anemone",
 		"p": "Glooth Anemone",
-		"k": 11310,
-		"v": 646.9
+		"k": 11435,
+		"v": 646.35
 	},
 	{
 		"n": "Iks Pututu",
@@ -1208,8 +1214,8 @@
 	{
 		"n": "Destroyer",
 		"p": "Destroyer",
-		"k": 1727,
-		"v": 637.09
+		"k": 1746,
+		"v": 633.13
 	},
 	{
 		"n": "Glooth Brigand",
@@ -1226,20 +1232,20 @@
 	{
 		"n": "Spectre",
 		"p": "Spectre",
-		"k": 3337,
-		"v": 610.13
+		"k": 3338,
+		"v": 609.98
+	},
+	{
+		"n": "Pirat Cutthroat",
+		"p": "Pirat Cutthroat",
+		"k": 12538,
+		"v": 603.36
 	},
 	{
 		"n": "Goldhanded Cultist",
 		"p": "Goldhanded Cultist",
 		"k": 1251,
 		"v": 602.01
-	},
-	{
-		"n": "Pirat Cutthroat",
-		"p": "Pirat Cutthroat",
-		"k": 12427,
-		"v": 601.8
 	},
 	{
 		"n": "Glooth Bandit",
@@ -1250,8 +1256,14 @@
 	{
 		"n": "Shaper Matriarch",
 		"p": "Shaper Matriarch",
-		"k": 6331,
-		"v": 592.51
+		"k": 6332,
+		"v": 592.61
+	},
+	{
+		"n": "Infernalist",
+		"p": "Infernalist",
+		"k": 4986,
+		"v": 586.94
 	},
 	{
 		"n": "Vile Grandmaster",
@@ -1260,22 +1272,16 @@
 		"v": 586.83
 	},
 	{
-		"n": "Infernalist",
-		"p": "Infernalist",
-		"k": 4967,
-		"v": 585.98
-	},
-	{
 		"n": "Rustheap Golem",
 		"p": "Rustheap Golem",
-		"k": 1855,
-		"v": 581.9
+		"k": 1857,
+		"v": 581.43
 	},
 	{
 		"n": "Devourer",
 		"p": "Devourer",
-		"k": 7735,
-		"v": 576.44
+		"k": 7777,
+		"v": 576.01
 	},
 	{
 		"n": "Werehyaena",
@@ -1286,14 +1292,14 @@
 	{
 		"n": "Defiler",
 		"p": "Defiler",
-		"k": 5350,
-		"v": 567.82
+		"k": 5353,
+		"v": 567.85
 	},
 	{
 		"n": "Werebear",
 		"p": "Werebear",
-		"k": 157,
-		"v": 566.22
+		"k": 158,
+		"v": 564.06
 	},
 	{
 		"n": "Moohtant",
@@ -1304,8 +1310,8 @@
 	{
 		"n": "Stabilizing Dread Intruder",
 		"p": "Stabilizing Dread Intruder",
-		"k": 4995,
-		"v": 558.5
+		"k": 5001,
+		"v": 558.43
 	},
 	{
 		"n": "Enfeebled Silencer",
@@ -1334,14 +1340,14 @@
 	{
 		"n": "Lizard Zaogun",
 		"p": "Lizard Zaogun",
-		"k": 21619,
-		"v": 541.58
+		"k": 21620,
+		"v": 541.57
 	},
 	{
 		"n": "Stabilizing Reality Reaver",
 		"p": "Stabilizing Reality Reaver",
-		"k": 4758,
-		"v": 540.04
+		"k": 4761,
+		"v": 539.99
 	},
 	{
 		"n": "Renegade Quara Hydromancer",
@@ -1382,8 +1388,8 @@
 	{
 		"n": "Elder Wyrm",
 		"p": "Elder Wyrm",
-		"k": 13938,
-		"v": 513.36
+		"k": 13951,
+		"v": 513.47
 	},
 	{
 		"n": "Cave Devourer",
@@ -1394,8 +1400,8 @@
 	{
 		"n": "Twisted Shaper",
 		"p": "Twisted Shaper",
-		"k": 7547,
-		"v": 505.22
+		"k": 7549,
+		"v": 505.16
 	},
 	{
 		"n": "Minotaur Cult Prophet",
@@ -1406,8 +1412,8 @@
 	{
 		"n": "Lost Husher",
 		"p": "Lost Husher",
-		"k": 11560,
-		"v": 502.99
+		"k": 11561,
+		"v": 502.96
 	},
 	{
 		"n": "Eternal Guardian",
@@ -1418,20 +1424,20 @@
 	{
 		"n": "Quara Predator",
 		"p": "Quara Predator",
-		"k": 25828,
-		"v": 488.63
-	},
-	{
-		"n": "Werewolf",
-		"p": "Werewolf",
-		"k": 389,
-		"v": 488.58
+		"k": 25831,
+		"v": 488.57
 	},
 	{
 		"n": "Broken Shaper",
 		"p": "Broken Shaper",
-		"k": 8791,
-		"v": 484.84
+		"k": 8794,
+		"v": 484.78
+	},
+	{
+		"n": "Werewolf",
+		"p": "Werewolf",
+		"k": 401,
+		"v": 478.78
 	},
 	{
 		"n": "Shaburak Prince",
@@ -1442,32 +1448,32 @@
 	{
 		"n": "Exotic Bat",
 		"p": "Exotic Bat",
-		"k": 11025,
-		"v": 475.95
+		"k": 11134,
+		"v": 475.98
 	},
 	{
 		"n": "Boogy",
 		"p": "Boogy",
-		"k": 245,
-		"v": 472.97
+		"k": 247,
+		"v": 475.78
 	},
 	{
 		"n": "Metal Gargoyle",
 		"p": "Metal Gargoyle",
-		"k": 3106,
-		"v": 471.59
+		"k": 3110,
+		"v": 471.37
 	},
 	{
 		"n": "Hydra",
 		"p": "Hydra",
-		"k": 56081,
-		"v": 461.95
+		"k": 56082,
+		"v": 461.94
 	},
 	{
 		"n": "Lizard Chosen",
 		"p": "Lizard Chosen",
-		"k": 51797,
-		"v": 455.72
+		"k": 51811,
+		"v": 455.63
 	},
 	{
 		"n": "Infected Weeper",
@@ -1476,16 +1482,16 @@
 		"v": 446.69
 	},
 	{
-		"n": "Hellspawn",
-		"p": "Hellspawn",
-		"k": 7268,
-		"v": 440.09
-	},
-	{
 		"n": "Animated Snowman",
 		"p": "Animated Snowman",
 		"k": 673,
 		"v": 439.85
+	},
+	{
+		"n": "Hellspawn",
+		"p": "Hellspawn",
+		"k": 7373,
+		"v": 439.2
 	},
 	{
 		"n": "Minotaur Invader",
@@ -1506,12 +1512,6 @@
 		"v": 412.62
 	},
 	{
-		"n": "Werebadger",
-		"p": "Werebadger",
-		"k": 309,
-		"v": 409.29
-	},
-	{
 		"n": "Orclops Ravager",
 		"p": "Orclops Ravager",
 		"k": 8995,
@@ -1526,8 +1526,8 @@
 	{
 		"n": "Sea Serpent",
 		"p": "Sea Serpent",
-		"k": 41167,
-		"v": 404.68
+		"k": 41169,
+		"v": 404.66
 	},
 	{
 		"n": "Instable Sparkion",
@@ -1544,14 +1544,20 @@
 	{
 		"n": "Waspoid",
 		"p": "Waspoid",
-		"k": 18081,
-		"v": 383.45
+		"k": 18087,
+		"v": 383.4
+	},
+	{
+		"n": "Werebadger",
+		"p": "Werebadger",
+		"k": 394,
+		"v": 381.58
 	},
 	{
 		"n": "Nightmare",
 		"p": "Nightmare",
-		"k": 5477,
-		"v": 380.41
+		"k": 5479,
+		"v": 380.29
 	},
 	{
 		"n": "Worm Priestess",
@@ -1562,20 +1568,14 @@
 	{
 		"n": "Spitter",
 		"p": "Spitter",
-		"k": 45171,
-		"v": 372.92
+		"k": 45173,
+		"v": 372.91
 	},
 	{
 		"n": "Diabolic Imp",
 		"p": "Diabolic Imp",
-		"k": 7150,
-		"v": 367.71
-	},
-	{
-		"n": "Wereboar",
-		"p": "Wereboar",
-		"k": 205,
-		"v": 367.19
+		"k": 7172,
+		"v": 367.55
 	},
 	{
 		"n": "Swan Maiden",
@@ -1610,14 +1610,20 @@
 	{
 		"n": "Putrid Mummy",
 		"p": "Putrid Mummy",
-		"k": 6926,
-		"v": 342.75
+		"k": 6930,
+		"v": 343.58
+	},
+	{
+		"n": "Wereboar",
+		"p": "Wereboar",
+		"k": 302,
+		"v": 343.43
 	},
 	{
 		"n": "Werefox",
 		"p": "Werefox",
-		"k": 765,
-		"v": 339.06
+		"k": 771,
+		"v": 338.29
 	},
 	{
 		"n": "Vulcongra",
@@ -1658,14 +1664,14 @@
 	{
 		"n": "Jungle Moa",
 		"p": "Jungle Moa",
-		"k": 2910,
-		"v": 327.4
+		"k": 2954,
+		"v": 329.34
 	},
 	{
 		"n": "Dragon Lord",
 		"p": "Dragon Lord",
-		"k": 43691,
-		"v": 324.03
+		"k": 43702,
+		"v": 324.07
 	},
 	{
 		"n": "Deepling Spellsinger",
@@ -1688,20 +1694,20 @@
 	{
 		"n": "Drillworm",
 		"p": "Drillworm",
-		"k": 68430,
-		"v": 317.66
+		"k": 68480,
+		"v": 317.63
 	},
 	{
 		"n": "Wyrm",
 		"p": "Wyrm",
-		"k": 65678,
-		"v": 316.61
+		"k": 65691,
+		"v": 316.6
 	},
 	{
 		"n": "Dark Faun",
 		"p": "Dark Faun",
-		"k": 313,
-		"v": 316.4
+		"k": 318,
+		"v": 314.93
 	},
 	{
 		"n": "Yielothax",
@@ -1712,20 +1718,20 @@
 	{
 		"n": "Crawler",
 		"p": "Crawler",
-		"k": 49915,
+		"k": 49920,
 		"v": 310.96
+	},
+	{
+		"n": "Exotic Cave Spider",
+		"p": "Exotic Cave Spider",
+		"k": 5065,
+		"v": 310.65
 	},
 	{
 		"n": "High Voltage Elemental",
 		"p": "High Voltage Elemental",
 		"k": 3694,
 		"v": 309.07
-	},
-	{
-		"n": "Exotic Cave Spider",
-		"p": "Exotic Cave Spider",
-		"k": 4988,
-		"v": 306.42
 	},
 	{
 		"n": "Blood Priest",
@@ -1742,8 +1748,8 @@
 	{
 		"n": "Frost Dragon",
 		"p": "Frost Dragon",
-		"k": 41799,
-		"v": 301.78
+		"k": 41814,
+		"v": 301.91
 	},
 	{
 		"n": "Loricate Orger",
@@ -1754,8 +1760,8 @@
 	{
 		"n": "Quara Pincher",
 		"p": "Quara Pincher",
-		"k": 18975,
-		"v": 298.98
+		"k": 18988,
+		"v": 298.89
 	},
 	{
 		"n": "Schiach",
@@ -1772,14 +1778,14 @@
 	{
 		"n": "Crystal Spider",
 		"p": "Crystal Spider",
-		"k": 54781,
-		"v": 295.43
+		"k": 54784,
+		"v": 295.42
 	},
 	{
 		"n": "Nymph",
 		"p": "Nymph",
-		"k": 11933,
-		"v": 292.4
+		"k": 11935,
+		"v": 292.37
 	},
 	{
 		"n": "Lizard Dragon Priest",
@@ -1796,8 +1802,8 @@
 	{
 		"n": "Parder",
 		"p": "Parder",
-		"k": 3372,
-		"v": 287.68
+		"k": 3411,
+		"v": 287.31
 	},
 	{
 		"n": "Hero",
@@ -1830,16 +1836,16 @@
 		"v": 276.26
 	},
 	{
+		"n": "Massive Fire Elemental",
+		"p": "Massive Fire Elemental",
+		"k": 9941,
+		"v": 273.5
+	},
+	{
 		"n": "Lizard Magistratus",
 		"p": "Lizard Magistratus",
 		"k": 1192,
 		"v": 273.35
-	},
-	{
-		"n": "Massive Fire Elemental",
-		"p": "Massive Fire Elemental",
-		"k": 9908,
-		"v": 272.14
 	},
 	{
 		"n": "Ogre Savage",
@@ -1868,8 +1874,8 @@
 	{
 		"n": "Giant Spider",
 		"p": "Giant Spider",
-		"k": 91458,
-		"v": 255.87
+		"k": 91467,
+		"v": 255.86
 	},
 	{
 		"n": "Orger",
@@ -1880,20 +1886,20 @@
 	{
 		"n": "Ancient Scarab",
 		"p": "Ancient Scarab",
-		"k": 30152,
-		"v": 242.56
+		"k": 30225,
+		"v": 242.48
 	},
 	{
 		"n": "Lich",
 		"p": "Lich",
-		"k": 12580,
-		"v": 235.68
+		"k": 12591,
+		"v": 235.66
 	},
 	{
 		"n": "Blood Hand",
 		"p": "Blood Hand",
-		"k": 6095,
-		"v": 233.77
+		"k": 6096,
+		"v": 233.83
 	},
 	{
 		"n": "Ogre Brute",
@@ -1904,8 +1910,8 @@
 	{
 		"n": "Killer Caiman",
 		"p": "Killer Caiman",
-		"k": 38832,
-		"v": 225.97
+		"k": 38870,
+		"v": 225.93
 	},
 	{
 		"n": "Lizard High Guard",
@@ -1964,8 +1970,8 @@
 	{
 		"n": "Stampor",
 		"p": "Stampor",
-		"k": 22193,
-		"v": 202.14
+		"k": 22202,
+		"v": 202.13
 	},
 	{
 		"n": "Nightmare Scion",
@@ -1988,8 +1994,8 @@
 	{
 		"n": "Blood Beast",
 		"p": "Blood Beast",
-		"k": 14965,
-		"v": 184.73
+		"k": 14977,
+		"v": 184.68
 	},
 	{
 		"n": "Energy Elemental",
@@ -2030,8 +2036,8 @@
 	{
 		"n": "Diamond Servant Replica",
 		"p": "Diamond Servant Replica",
-		"k": 4401,
-		"v": 174.15
+		"k": 4407,
+		"v": 174.07
 	},
 	{
 		"n": "Shaburak Demon",
@@ -2048,20 +2054,20 @@
 	{
 		"n": "Lizard Legionnaire",
 		"p": "Lizard Legionnaire",
-		"k": 106794,
+		"k": 106795,
 		"v": 172.69
 	},
 	{
 		"n": "Brimstone Bug",
 		"p": "Brimstone Bug",
-		"k": 29288,
+		"k": 29296,
 		"v": 172.06
 	},
 	{
 		"n": "Quara Hydromancer",
 		"p": "Quara Hydromancer",
-		"k": 12503,
-		"v": 171.12
+		"k": 12507,
+		"v": 171.11
 	},
 	{
 		"n": "Diamond Servant",
@@ -2072,8 +2078,8 @@
 	{
 		"n": "Dragonling",
 		"p": "Dragonling",
-		"k": 2254,
-		"v": 165.77
+		"k": 2290,
+		"v": 165.8
 	},
 	{
 		"n": "Dragon",
@@ -2084,8 +2090,8 @@
 	{
 		"n": "Mutated Tiger",
 		"p": "Mutated Tiger",
-		"k": 22486,
-		"v": 160.92
+		"k": 22492,
+		"v": 160.93
 	},
 	{
 		"n": "Askarak Demon",
@@ -2102,14 +2108,14 @@
 	{
 		"n": "Roaring Lion",
 		"p": "Roaring Lion",
-		"k": 28351,
+		"k": 28413,
 		"v": 156.61
 	},
 	{
 		"n": "Massive Water Elemental",
 		"p": "Massive Water Elemental",
-		"k": 3620,
-		"v": 154.64
+		"k": 3630,
+		"v": 154.6
 	},
 	{
 		"n": "Stonerefiner",
@@ -2120,7 +2126,7 @@
 	{
 		"n": "Banshee",
 		"p": "Banshee",
-		"k": 62022,
+		"k": 62024,
 		"v": 152.2
 	},
 	{
@@ -2138,8 +2144,8 @@
 	{
 		"n": "Mutated Bat",
 		"p": "Mutated Bat",
-		"k": 7012,
-		"v": 145.51
+		"k": 7015,
+		"v": 145.47
 	},
 	{
 		"n": "Wiggler",
@@ -2150,14 +2156,14 @@
 	{
 		"n": "Insectoid Worker",
 		"p": "Insectoid Worker",
-		"k": 56204,
-		"v": 139.94
+		"k": 56208,
+		"v": 139.93
 	},
 	{
 		"n": "Efreet",
 		"p": "Efreet",
-		"k": 6763,
-		"v": 138.78
+		"k": 6765,
+		"v": 138.77
 	},
 	{
 		"n": "Crustacea Gigantica",
@@ -2192,20 +2198,20 @@
 	{
 		"n": "Rot Elemental",
 		"p": "Rot Elemental",
-		"k": 117477,
+		"k": 117478,
 		"v": 133.07
 	},
 	{
 		"n": "Cursed Ape",
 		"p": "Cursed Ape",
-		"k": 505,
-		"v": 131.29
+		"k": 510,
+		"v": 130.9
 	},
 	{
 		"n": "Omnivora",
 		"p": "Omnivora",
-		"k": 3167,
-		"v": 129.65
+		"k": 3183,
+		"v": 129.36
 	},
 	{
 		"n": "Vicious Squire",
@@ -2222,8 +2228,8 @@
 	{
 		"n": "Orc Warlord",
 		"p": "Orc Warlord",
-		"k": 6452,
-		"v": 124.57
+		"k": 6457,
+		"v": 124.61
 	},
 	{
 		"n": "Enraged Crystal Golem",
@@ -2240,7 +2246,7 @@
 	{
 		"n": "Ice Golem",
 		"p": "Ice Golem",
-		"k": 60954,
+		"k": 60962,
 		"v": 121.11
 	},
 	{
@@ -2252,8 +2258,8 @@
 	{
 		"n": "Twisted Pooka",
 		"p": "Twisted Pooka",
-		"k": 150,
-		"v": 120.99
+		"k": 152,
+		"v": 120.03
 	},
 	{
 		"n": "Nightstalker",
@@ -2270,14 +2276,14 @@
 	{
 		"n": "Wailing Widow",
 		"p": "Wailing Widow",
-		"k": 12206,
-		"v": 116.17
+		"k": 12209,
+		"v": 116.41
 	},
 	{
 		"n": "Quara Mantassin",
 		"p": "Quara Mantassin",
-		"k": 14999,
-		"v": 113.89
+		"k": 15030,
+		"v": 113.83
 	},
 	{
 		"n": "Cult Enforcer",
@@ -2288,13 +2294,13 @@
 	{
 		"n": "Swarmer",
 		"p": "Swarmer",
-		"k": 62106,
+		"k": 62113,
 		"v": 112.26
 	},
 	{
 		"n": "Necromancer",
 		"p": "Necromancer",
-		"k": 66144,
+		"k": 66146,
 		"v": 111.38
 	},
 	{
@@ -2306,14 +2312,14 @@
 	{
 		"n": "Adept of the Cult",
 		"p": "Adept of the Cult",
-		"k": 24640,
-		"v": 110.48
+		"k": 24652,
+		"v": 110.46
 	},
 	{
 		"n": "Clay Guardian",
 		"p": "Clay Guardian",
-		"k": 10896,
-		"v": 106.57
+		"k": 10918,
+		"v": 106.59
 	},
 	{
 		"n": "Water Elemental",
@@ -2330,13 +2336,13 @@
 	{
 		"n": "Elder Bonelord",
 		"p": "Elder Bonelord",
-		"k": 45676,
-		"v": 103.04
+		"k": 45690,
+		"v": 103.06
 	},
 	{
 		"n": "Bog Raider",
 		"p": "Bog Raider",
-		"k": 35043,
+		"k": 35044,
 		"v": 102.96
 	},
 	{
@@ -2384,8 +2390,8 @@
 	{
 		"n": "Vampire",
 		"p": "Vampire",
-		"k": 36323,
-		"v": 82.99
+		"k": 36443,
+		"v": 83
 	},
 	{
 		"n": "Midnight Spawn",
@@ -2402,14 +2408,14 @@
 	{
 		"n": "Golden Servant Replica",
 		"p": "Golden Servant Replica",
-		"k": 4217,
-		"v": 79.2
+		"k": 4222,
+		"v": 79.19
 	},
 	{
 		"n": "Earth Elemental",
 		"p": "Earth Elemental",
-		"k": 92794,
-		"v": 76.53
+		"k": 92813,
+		"v": 76.52
 	},
 	{
 		"n": "Ice Witch",
@@ -2420,8 +2426,8 @@
 	{
 		"n": "Bonebeast",
 		"p": "Bonebeast",
-		"k": 104818,
-		"v": 76.12
+		"k": 104823,
+		"v": 76.11
 	},
 	{
 		"n": "Furious Troll",
@@ -2432,32 +2438,32 @@
 	{
 		"n": "Demon Skeleton",
 		"p": "Demon Skeleton",
-		"k": 121365,
+		"k": 121415,
 		"v": 71.34
 	},
 	{
 		"n": "Quara Constrictor",
 		"p": "Quara Constrictor",
-		"k": 17736,
-		"v": 71.31
+		"k": 17749,
+		"v": 71.32
 	},
 	{
 		"n": "Priestess",
 		"p": "Priestess",
-		"k": 20942,
-		"v": 70.28
+		"k": 20947,
+		"v": 70.27
 	},
 	{
 		"n": "Zombie",
 		"p": "Zombie",
-		"k": 20517,
+		"k": 20519,
 		"v": 70.05
 	},
 	{
 		"n": "Bonelord",
 		"p": "Bonelord",
-		"k": 137462,
-		"v": 69.79
+		"k": 137486,
+		"v": 69.82
 	},
 	{
 		"n": "Shadow Hound",
@@ -2468,8 +2474,8 @@
 	{
 		"n": "Mutated Rat",
 		"p": "Mutated Rat",
-		"k": 41732,
-		"v": 68.36
+		"k": 41734,
+		"v": 68.35
 	},
 	{
 		"n": "Bane of Light",
@@ -2486,13 +2492,13 @@
 	{
 		"n": "Green Djinn",
 		"p": "Green Djinn",
-		"k": 12956,
+		"k": 12959,
 		"v": 66.98
 	},
 	{
 		"n": "Blue Djinn",
 		"p": "Blue Djinn",
-		"k": 25704,
+		"k": 25713,
 		"v": 66.56
 	},
 	{
@@ -2516,13 +2522,13 @@
 	{
 		"n": "Lancer Beetle",
 		"p": "Lancer Beetle",
-		"k": 27661,
-		"v": 64.58
+		"k": 27668,
+		"v": 64.57
 	},
 	{
 		"n": "Quara Constrictor Scout",
 		"p": "Quara Constrictor Scout",
-		"k": 53466,
+		"k": 53470,
 		"v": 63.82
 	},
 	{
@@ -2558,8 +2564,8 @@
 	{
 		"n": "Witch",
 		"p": "Witch",
-		"k": 33225,
-		"v": 57.4
+		"k": 33236,
+		"v": 57.39
 	},
 	{
 		"n": "Lava Lurker",
@@ -2594,14 +2600,14 @@
 	{
 		"n": "Acolyte of the Cult",
 		"p": "Acolyte of the Cult",
-		"k": 31910,
+		"k": 31931,
 		"v": 52.04
 	},
 	{
 		"n": "Frost Dragon Hatchling",
 		"p": "Frost Dragon Hatchling",
-		"k": 29924,
-		"v": 51.25
+		"k": 29938,
+		"v": 51.24
 	},
 	{
 		"n": "Herald of Gloom",
@@ -2612,13 +2618,13 @@
 	{
 		"n": "Hunter",
 		"p": "Hunter",
-		"k": 25842,
-		"v": 50.04
+		"k": 25849,
+		"v": 50.03
 	},
 	{
 		"n": "Elf Arcanist",
 		"p": "Elf Arcanist",
-		"k": 27694,
+		"k": 27697,
 		"v": 49.71
 	},
 	{
@@ -2636,32 +2642,32 @@
 	{
 		"n": "Mummy",
 		"p": "Mummy",
-		"k": 127871,
-		"v": 47.98
+		"k": 127932,
+		"v": 47.97
 	},
 	{
 		"n": "Lizard Sentinel",
 		"p": "Lizard Sentinel",
-		"k": 9655,
-		"v": 47.66
+		"k": 9656,
+		"v": 47.65
 	},
 	{
 		"n": "Orc Rider",
 		"p": "Orc Rider",
-		"k": 17705,
-		"v": 47.12
+		"k": 17711,
+		"v": 47.13
 	},
 	{
 		"n": "Mammoth",
 		"p": "Mammoth",
-		"k": 24317,
-		"v": 46.69
+		"k": 24344,
+		"v": 46.68
 	},
 	{
 		"n": "Orc Berserker",
 		"p": "Orc Berserker",
-		"k": 26133,
-		"v": 46.27
+		"k": 26188,
+		"v": 46.3
 	},
 	{
 		"n": "Quara Mantassin Scout",
@@ -2672,14 +2678,14 @@
 	{
 		"n": "Mutated Human",
 		"p": "Mutated Human",
-		"k": 102973,
+		"k": 102991,
 		"v": 45.63
 	},
 	{
 		"n": "Iron Servant Replica",
 		"p": "Iron Servant Replica",
-		"k": 6943,
-		"v": 44.79
+		"k": 6949,
+		"v": 44.83
 	},
 	{
 		"n": "Rorc",
@@ -2696,8 +2702,8 @@
 	{
 		"n": "Minotaur Mage",
 		"p": "Minotaur Mage",
-		"k": 21467,
-		"v": 42.84
+		"k": 21473,
+		"v": 42.83
 	},
 	{
 		"n": "Orc Marauder",
@@ -2714,8 +2720,8 @@
 	{
 		"n": "Barkless Devotee",
 		"p": "Barkless Devotee",
-		"k": 10599,
-		"v": 42.06
+		"k": 10603,
+		"v": 42.05
 	},
 	{
 		"n": "Corym Skirmisher",
@@ -2738,8 +2744,8 @@
 	{
 		"n": "Thornback Tortoise",
 		"p": "Thornback Tortoise",
-		"k": 11521,
-		"v": 40.15
+		"k": 11527,
+		"v": 40.19
 	},
 	{
 		"n": "Bride of Night",
@@ -2750,7 +2756,7 @@
 	{
 		"n": "Orc Leader",
 		"p": "Orc Leader",
-		"k": 37367,
+		"k": 37377,
 		"v": 39.38
 	},
 	{
@@ -2762,8 +2768,8 @@
 	{
 		"n": "Stone Golem",
 		"p": "Stone Golem",
-		"k": 34534,
-		"v": 38.09
+		"k": 34550,
+		"v": 38.1
 	},
 	{
 		"n": "Dragon Lord Hatchling",
@@ -2780,8 +2786,8 @@
 	{
 		"n": "Assassin",
 		"p": "Assassin",
-		"k": 21312,
-		"v": 36.43
+		"k": 21476,
+		"v": 36.37
 	},
 	{
 		"n": "Pirate Buccaneer",
@@ -2792,8 +2798,8 @@
 	{
 		"n": "Lizard Templar",
 		"p": "Lizard Templar",
-		"k": 18316,
-		"v": 35.73
+		"k": 18320,
+		"v": 35.72
 	},
 	{
 		"n": "Frost Giant",
@@ -2804,7 +2810,7 @@
 	{
 		"n": "Dark Magician",
 		"p": "Dark Magician",
-		"k": 88146,
+		"k": 88270,
 		"v": 35.29
 	},
 	{
@@ -2828,7 +2834,7 @@
 	{
 		"n": "Deepling Scout",
 		"p": "Deepling Scout",
-		"k": 116471,
+		"k": 116477,
 		"v": 32.89
 	},
 	{
@@ -2846,37 +2852,37 @@
 	{
 		"n": "Terramite",
 		"p": "Terramite",
-		"k": 225188,
+		"k": 225198,
 		"v": 31.9
 	},
 	{
 		"n": "Barbarian Brutetamer",
 		"p": "Barbarian Brutetamer",
-		"k": 14448,
+		"k": 14449,
 		"v": 31.43
 	},
 	{
 		"n": "Gargoyle",
 		"p": "Gargoyle",
-		"k": 29848,
-		"v": 31.36
+		"k": 29901,
+		"v": 31.37
 	},
 	{
 		"n": "Minotaur",
 		"p": "Minotaur",
-		"k": 184128,
+		"k": 184133,
 		"v": 31.28
 	},
 	{
 		"n": "Dwarf Guard",
 		"p": "Dwarf Guard",
-		"k": 33881,
-		"v": 30.68
+		"k": 33889,
+		"v": 30.69
 	},
 	{
 		"n": "Minotaur Guard",
 		"p": "Minotaur Guard",
-		"k": 47440,
+		"k": 47452,
 		"v": 30.09
 	},
 	{
@@ -2900,19 +2906,19 @@
 	{
 		"n": "Orc Shaman",
 		"p": "Orc Shaman",
-		"k": 6150,
-		"v": 29.55
-	},
-	{
-		"n": "Firestarter",
-		"p": "Firestarter",
-		"k": 44753,
-		"v": 29.48
+		"k": 6199,
+		"v": 29.65
 	},
 	{
 		"n": "Barbarian Skullhunter",
 		"p": "Barbarian Skullhunter",
 		"k": 25669,
+		"v": 29.47
+	},
+	{
+		"n": "Firestarter",
+		"p": "Firestarter",
+		"k": 44825,
 		"v": 29.47
 	},
 	{
@@ -2930,13 +2936,13 @@
 	{
 		"n": "Kongra",
 		"p": "Kongra",
-		"k": 213650,
+		"k": 213715,
 		"v": 27.4
 	},
 	{
 		"n": "Barbarian Headsplitter",
 		"p": "Barbarian Headsplitter",
-		"k": 29290,
+		"k": 29291,
 		"v": 27.26
 	},
 	{
@@ -2948,26 +2954,26 @@
 	{
 		"n": "Crypt Shambler",
 		"p": "Crypt Shambler",
-		"k": 116344,
+		"k": 116372,
 		"v": 27.03
 	},
 	{
 		"n": "Merlkin",
 		"p": "Merlkin",
-		"k": 213713,
+		"k": 213780,
 		"v": 25.94
 	},
 	{
 		"n": "Ghost",
 		"p": "Ghost",
-		"k": 44354,
+		"k": 44363,
 		"v": 25.84
 	},
 	{
 		"n": "Wild Warrior",
 		"p": "Wild Warrior",
-		"k": 12300,
-		"v": 25.78
+		"k": 12307,
+		"v": 25.79
 	},
 	{
 		"n": "Elf Scout",
@@ -2978,7 +2984,7 @@
 	{
 		"n": "Dark Apprentice",
 		"p": "Dark Apprentice",
-		"k": 105338,
+		"k": 105463,
 		"v": 25.6
 	},
 	{
@@ -2996,7 +3002,7 @@
 	{
 		"n": "Poacher",
 		"p": "Poacher",
-		"k": 11096,
+		"k": 11099,
 		"v": 24.36
 	},
 	{
@@ -3008,8 +3014,8 @@
 	{
 		"n": "Cyclops",
 		"p": "Cyclops",
-		"k": 8014,
-		"v": 23.96
+		"k": 8015,
+		"v": 23.95
 	},
 	{
 		"n": "Undead Prospector",
@@ -3020,7 +3026,7 @@
 	{
 		"n": "Tarnished Spirit",
 		"p": "Tarnished Spirit",
-		"k": 2753,
+		"k": 2754,
 		"v": 23.47
 	},
 	{
@@ -3038,13 +3044,13 @@
 	{
 		"n": "Valkyrie",
 		"p": "Valkyrie",
-		"k": 17306,
+		"k": 17311,
 		"v": 23.3
 	},
 	{
 		"n": "Carniphila",
 		"p": "Carniphila",
-		"k": 153422,
+		"k": 153436,
 		"v": 22.86
 	},
 	{
@@ -3068,25 +3074,25 @@
 	{
 		"n": "Ghoul",
 		"p": "Ghoul",
-		"k": 24474,
-		"v": 21.78
+		"k": 24577,
+		"v": 21.77
 	},
 	{
 		"n": "Tarantula",
 		"p": "Tarantula",
-		"k": 85248,
+		"k": 85257,
 		"v": 21.68
 	},
 	{
 		"n": "Leaf Golem",
 		"p": "Leaf Golem",
-		"k": 63017,
+		"k": 63019,
 		"v": 21.35
 	},
 	{
 		"n": "Dragon Hatchling",
 		"p": "Dragon Hatchling",
-		"k": 14233,
+		"k": 14235,
 		"v": 21.16
 	},
 	{
@@ -3098,7 +3104,7 @@
 	{
 		"n": "Nomad (Basic)",
 		"p": "Nomad (Basic)",
-		"k": 32111,
+		"k": 32132,
 		"v": 20.39
 	},
 	{
@@ -3110,13 +3116,13 @@
 	{
 		"n": "Dwarf Soldier",
 		"p": "Dwarf Soldier",
-		"k": 51307,
+		"k": 51348,
 		"v": 19.84
 	},
 	{
 		"n": "Scarab",
 		"p": "Scarab",
-		"k": 96244,
+		"k": 96258,
 		"v": 19.7
 	},
 	{
@@ -3134,7 +3140,7 @@
 	{
 		"n": "Pirate Ghost",
 		"p": "Pirate Ghost",
-		"k": 1967,
+		"k": 1968,
 		"v": 18.79
 	},
 	{
@@ -3146,7 +3152,7 @@
 	{
 		"n": "Dwarf",
 		"p": "Dwarf",
-		"k": 40880,
+		"k": 40900,
 		"v": 18.77
 	},
 	{
@@ -3176,7 +3182,7 @@
 	{
 		"n": "Swampling",
 		"p": "Swampling",
-		"k": 45931,
+		"k": 45963,
 		"v": 17.74
 	},
 	{
@@ -3188,13 +3194,13 @@
 	{
 		"n": "Minotaur Archer",
 		"p": "Minotaur Archer",
-		"k": 29537,
+		"k": 29551,
 		"v": 16.51
 	},
 	{
 		"n": "Dark Monk",
 		"p": "Dark Monk",
-		"k": 21608,
+		"k": 21609,
 		"v": 16.45
 	},
 	{
@@ -3206,14 +3212,14 @@
 	{
 		"n": "Gloom Wolf",
 		"p": "Gloom Wolf",
-		"k": 2640,
-		"v": 16.25
+		"k": 2651,
+		"v": 16.24
 	},
 	{
 		"n": "Novice of the Cult",
 		"p": "Novice of the Cult",
-		"k": 18603,
-		"v": 16.2
+		"k": 18661,
+		"v": 16.22
 	},
 	{
 		"n": "Doomsday Cultist",
@@ -3224,26 +3230,20 @@
 	{
 		"n": "Amazon",
 		"p": "Amazon",
-		"k": 26431,
+		"k": 26436,
 		"v": 16.01
 	},
 	{
 		"n": "Orc Warrior",
 		"p": "Orc Warrior",
-		"k": 12162,
+		"k": 12189,
 		"v": 15.3
 	},
 	{
 		"n": "Skeleton",
 		"p": "Skeleton",
-		"k": 14945,
+		"k": 15145,
 		"v": 14.75
-	},
-	{
-		"n": "Monk",
-		"p": "Monk",
-		"k": 30736,
-		"v": 14.19
 	},
 	{
 		"n": "Clomp",
@@ -3252,21 +3252,27 @@
 		"v": 14.19
 	},
 	{
+		"n": "Monk",
+		"p": "Monk",
+		"k": 30873,
+		"v": 14.18
+	},
+	{
 		"n": "Gnarlhound",
 		"p": "Gnarlhound",
-		"k": 11304,
+		"k": 11305,
 		"v": 14.16
 	},
 	{
 		"n": "Emerald Damselfly",
 		"p": "Emerald Damselfly",
-		"k": 78567,
+		"k": 78569,
 		"v": 14.1
 	},
 	{
 		"n": "Sibang",
 		"p": "Sibang",
-		"k": 506062,
+		"k": 506109,
 		"v": 13.64
 	},
 	{
@@ -3296,37 +3302,43 @@
 	{
 		"n": "Deepsea Blood Crab",
 		"p": "Deepsea Blood Crab",
-		"k": 4999,
-		"v": 12.89
+		"k": 5006,
+		"v": 12.91
 	},
 	{
 		"n": "Tortoise",
 		"p": "Tortoise",
-		"k": 31862,
+		"k": 31876,
 		"v": 12.65
 	},
 	{
 		"n": "Honour Guard",
 		"p": "Honour Guard",
-		"k": 7060,
+		"k": 7066,
 		"v": 12.4
 	},
 	{
 		"n": "Stalker",
 		"p": "Stalker",
-		"k": 41041,
-		"v": 12.02
+		"k": 41071,
+		"v": 12.01
 	},
 	{
 		"n": "Orc",
 		"p": "Orc",
-		"k": 4520,
+		"k": 4524,
 		"v": 11.88
+	},
+	{
+		"n": "Blood Crab",
+		"p": "Blood Crab",
+		"k": 11527,
+		"v": 11.85
 	},
 	{
 		"n": "Smuggler",
 		"p": "Smuggler",
-		"k": 66617,
+		"k": 66619,
 		"v": 11.85
 	},
 	{
@@ -3336,21 +3348,15 @@
 		"v": 11.84
 	},
 	{
-		"n": "Blood Crab",
-		"p": "Blood Crab",
-		"k": 11474,
-		"v": 11.82
-	},
-	{
 		"n": "Pirate Skeleton",
 		"p": "Pirate Skeleton",
-		"k": 3970,
-		"v": 11.79
+		"k": 3980,
+		"v": 11.82
 	},
 	{
 		"n": "Carrion Worm",
 		"p": "Carrion Worm",
-		"k": 24751,
+		"k": 24755,
 		"v": 11.65
 	},
 	{
@@ -3362,8 +3368,8 @@
 	{
 		"n": "Dworc Voodoomaster",
 		"p": "Dworc Voodoomaster",
-		"k": 40606,
-		"v": 11.14
+		"k": 40675,
+		"v": 11.13
 	},
 	{
 		"n": "Gang Member",
@@ -3380,37 +3386,37 @@
 	{
 		"n": "Dworc Fleshhunter",
 		"p": "Dworc Fleshhunter",
-		"k": 100756,
+		"k": 100766,
 		"v": 10.59
 	},
 	{
 		"n": "Dworc Venomsniper",
 		"p": "Dworc Venomsniper",
-		"k": 100399,
+		"k": 100467,
 		"v": 9.79
 	},
 	{
 		"n": "Troll",
 		"p": "Troll",
-		"k": 5531,
-		"v": 9.35
+		"k": 6521,
+		"v": 9.32
 	},
 	{
 		"n": "Centipede",
 		"p": "Centipede",
-		"k": 71113,
+		"k": 71135,
 		"v": 9.27
 	},
 	{
 		"n": "Chakoya Toolshaper",
 		"p": "Chakoya Toolshaper",
-		"k": 11264,
+		"k": 11267,
 		"v": 9.23
 	},
 	{
 		"n": "Chakoya Windcaller",
 		"p": "Chakoya Windcaller",
-		"k": 6307,
+		"k": 6308,
 		"v": 9.22
 	},
 	{
@@ -3422,7 +3428,7 @@
 	{
 		"n": "Island Troll",
 		"p": "Island Troll",
-		"k": 11796,
+		"k": 11798,
 		"v": 8.98
 	},
 	{
@@ -3458,38 +3464,38 @@
 	{
 		"n": "Salamander",
 		"p": "Salamander",
-		"k": 219966,
+		"k": 219969,
 		"v": 7.69
 	},
 	{
 		"n": "Toad",
 		"p": "Toad",
-		"k": 15306,
+		"k": 15325,
 		"v": 7.34
 	},
 	{
 		"n": "Ghost Wolf",
 		"p": "Ghost Wolf",
-		"k": 2602,
-		"v": 7.28
+		"k": 2626,
+		"v": 7.3
 	},
 	{
 		"n": "Chakoya Tribewarden",
 		"p": "Chakoya Tribewarden",
-		"k": 13073,
+		"k": 13074,
 		"v": 7.21
 	},
 	{
 		"n": "Rotworm",
 		"p": "Rotworm",
-		"k": 118723,
+		"k": 118760,
 		"v": 7.16
 	},
 	{
 		"n": "Troll Champion",
 		"p": "Troll Champion",
-		"k": 27099,
-		"v": 6.93
+		"k": 27100,
+		"v": 6.92
 	},
 	{
 		"n": "Agrestic Chicken",
@@ -3500,19 +3506,19 @@
 	{
 		"n": "Crocodile",
 		"p": "Crocodile",
-		"k": 97755,
+		"k": 97761,
 		"v": 6.68
 	},
 	{
 		"n": "Skeleton Warrior",
 		"p": "Skeleton Warrior",
-		"k": 11718,
+		"k": 11721,
 		"v": 6.57
 	},
 	{
 		"n": "Crazed Beggar",
 		"p": "Crazed Beggar",
-		"k": 3561,
+		"k": 3562,
 		"v": 6.47
 	},
 	{
@@ -3524,19 +3530,19 @@
 	{
 		"n": "Orc Spearman",
 		"p": "Orc Spearman",
-		"k": 8401,
+		"k": 8417,
 		"v": 6.1
 	},
 	{
 		"n": "Frost Troll",
 		"p": "Frost Troll",
-		"k": 18673,
+		"k": 18674,
 		"v": 6.02
 	},
 	{
 		"n": "Goblin Leader",
 		"p": "Goblin Leader",
-		"k": 1688,
+		"k": 1691,
 		"v": 5.84
 	},
 	{
@@ -3548,38 +3554,38 @@
 	{
 		"n": "Goblin Assassin",
 		"p": "Goblin Assassin",
-		"k": 7061,
+		"k": 7062,
 		"v": 5.72
 	},
 	{
 		"n": "Death Blob",
 		"p": "Death Blob",
-		"k": 17043,
+		"k": 17049,
 		"v": 5.67
 	},
 	{
 		"n": "Chicken",
 		"p": "Chicken",
-		"k": 19557,
-		"v": 5.43
+		"k": 19592,
+		"v": 5.44
 	},
 	{
 		"n": "Feverish Citizen",
 		"p": "Feverish Citizen",
-		"k": 12760,
+		"k": 12761,
 		"v": 5.33
 	},
 	{
 		"n": "Larva",
 		"p": "Larva",
-		"k": 84235,
+		"k": 84250,
 		"v": 5.18
 	},
 	{
 		"n": "Crab",
 		"p": "Crab",
-		"k": 15515,
-		"v": 5.14
+		"k": 15568,
+		"v": 5.17
 	},
 	{
 		"n": "Acid Blob",
@@ -3590,19 +3596,19 @@
 	{
 		"n": "Goblin",
 		"p": "Goblin",
-		"k": 44079,
+		"k": 44097,
 		"v": 4.75
 	},
 	{
 		"n": "Spit Nettle",
 		"p": "Spit Nettle",
-		"k": 6501,
+		"k": 6502,
 		"v": 4.57
 	},
 	{
 		"n": "Squirrel",
 		"p": "Squirrel",
-		"k": 5969,
+		"k": 5970,
 		"v": 3.95
 	},
 	{
@@ -3626,14 +3632,14 @@
 	{
 		"n": "Elephant",
 		"p": "Elephant",
-		"k": 9060,
+		"k": 9063,
 		"v": 3.23
 	},
 	{
 		"n": "White Shade",
 		"p": "White Shade",
-		"k": 1759,
-		"v": 3.13
+		"k": 1763,
+		"v": 3.12
 	},
 	{
 		"n": "Crimson Frog",
@@ -3650,7 +3656,7 @@
 	{
 		"n": "Orchid Frog",
 		"p": "Orchid Frog",
-		"k": 3047,
+		"k": 3049,
 		"v": 2.96
 	},
 	{
@@ -3674,19 +3680,19 @@
 	{
 		"n": "Swamp Troll",
 		"p": "Swamp Troll",
-		"k": 54304,
+		"k": 54305,
 		"v": 2.42
 	},
 	{
 		"n": "Bear",
 		"p": "Bear",
-		"k": 56593,
+		"k": 56608,
 		"v": 2.21
 	},
 	{
 		"n": "War Wolf",
 		"p": "War Wolf",
-		"k": 15110,
+		"k": 15120,
 		"v": 2.17
 	},
 	{
@@ -3704,19 +3710,19 @@
 	{
 		"n": "Poison Spider",
 		"p": "Poison Spider",
-		"k": 43154,
+		"k": 43158,
 		"v": 1.97
 	},
 	{
 		"n": "Spider",
 		"p": "Spider",
-		"k": 18424,
-		"v": 1.93
+		"k": 18588,
+		"v": 1.94
 	},
 	{
 		"n": "Sandcrawler",
 		"p": "Sandcrawler",
-		"k": 55142,
+		"k": 55146,
 		"v": 1.62
 	},
 	{
@@ -3728,31 +3734,31 @@
 	{
 		"n": "Bug",
 		"p": "Bug",
-		"k": 22148,
+		"k": 22165,
 		"v": 1.56
 	},
 	{
 		"n": "Cave Rat",
 		"p": "Cave Rat",
-		"k": 55826,
+		"k": 55831,
 		"v": 1.36
 	},
 	{
 		"n": "Rat",
 		"p": "Rat",
-		"k": 22269,
+		"k": 22272,
 		"v": 1.27
 	},
 	{
 		"n": "Scorpion",
 		"p": "Scorpion",
-		"k": 70932,
+		"k": 70963,
 		"v": 1.27
 	},
 	{
 		"n": "Wasp",
 		"p": "Wasp",
-		"k": 90324,
+		"k": 90394,
 		"v": 1.19
 	},
 	{
@@ -3764,43 +3770,43 @@
 	{
 		"n": "Lion",
 		"p": "Lion",
-		"k": 6135,
+		"k": 6136,
 		"v": 0.81
 	},
 	{
 		"n": "Wolf",
 		"p": "Wolf",
-		"k": 93924,
-		"v": 0.78
+		"k": 94625,
+		"v": 0.8
 	},
 	{
 		"n": "Cobra",
 		"p": "Cobra",
-		"k": 28191,
+		"k": 28202,
 		"v": 0.76
 	},
 	{
 		"n": "Silver Rabbit",
 		"p": "Silver Rabbit",
-		"k": 4694,
+		"k": 4696,
 		"v": 0.73
 	},
 	{
 		"n": "Badger",
 		"p": "Badger",
-		"k": 25438,
+		"k": 25441,
 		"v": 0.65
 	},
 	{
 		"n": "Deer",
 		"p": "Deer",
-		"k": 12629,
+		"k": 12633,
 		"v": 0.64
 	},
 	{
 		"n": "Polar Bear",
 		"p": "Polar Bear",
-		"k": 17214,
+		"k": 17220,
 		"v": 0.54
 	},
 	{
@@ -3810,16 +3816,16 @@
 		"v": 0.46
 	},
 	{
+		"n": "Tiger",
+		"p": "Tiger",
+		"k": 6104,
+		"v": 0.37
+	},
+	{
 		"n": "Sheep",
 		"p": "Sheep",
 		"k": 3565,
 		"v": 0.34
-	},
-	{
-		"n": "Tiger",
-		"p": "Tiger",
-		"k": 6071,
-		"v": 0.32
 	},
 	{
 		"n": "Pig",
@@ -3830,31 +3836,31 @@
 	{
 		"n": "Flamingo",
 		"p": "Flamingo",
-		"k": 6701,
+		"k": 6704,
 		"v": 0.22
 	},
 	{
 		"n": "Rabbit",
 		"p": "Rabbit",
-		"k": 9782,
+		"k": 9802,
 		"v": 0.2
 	},
 	{
 		"n": "Penguin",
 		"p": "Penguin",
-		"k": 27399,
+		"k": 27401,
 		"v": 0.19
 	},
 	{
 		"n": "Winter Wolf",
 		"p": "Winter Wolf",
-		"k": 23741,
+		"k": 23750,
 		"v": 0.12
 	},
 	{
 		"n": "Dromedary",
 		"p": "Dromedary",
-		"k": 2853,
+		"k": 2858,
 		"v": 0.07
 	},
 	{
